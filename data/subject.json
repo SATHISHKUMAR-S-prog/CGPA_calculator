@@ -1,0 +1,5348 @@
+[
+	{
+		"id" : 1,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 1,
+		"subject_code" : "HS8151",
+		"subject_name" : "Communicative English",
+		"year" : 2017
+	},
+	{
+		"id" : 2,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 1,
+		"subject_code" : "MA8151",
+		"subject_name" : "Engineering Mathematics - I",
+		"year" : 2017
+	},
+	{
+		"id" : 3,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 1,
+		"subject_code" : "PH8151",
+		"subject_name" : "Engineering Physics",
+		"year" : 2017
+	},
+	{
+		"id" : 4,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 1,
+		"subject_code" : "CY8151",
+		"subject_name" : "Engineering Chemistry",
+		"year" : 2017
+	},
+	{
+		"id" : 5,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 1,
+		"subject_code" : "GE8151",
+		"subject_name" : "Problem Solving and Python Programming",
+		"year" : 2017
+	},
+	{
+		"id" : 6,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 1,
+		"subject_code" : "GE8152",
+		"subject_name" : "Engineering Graphics",
+		"year" : 2017
+	},
+	{
+		"id" : 7,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 1,
+		"subject_code" : "GE8161",
+		"subject_name" : "Problem Solving and Python Programming Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 8,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 1,
+		"subject_code" : "BS8161",
+		"subject_name" : "Physics and Chemistry Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 9,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 2,
+		"subject_code" : "HS8251",
+		"subject_name" : "Technical English",
+		"year" : 2017
+	},
+	{
+		"id" : 10,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 2,
+		"subject_code" : "MA8251",
+		"subject_name" : "Engineering Mathematics - II",
+		"year" : 2017
+	},
+	{
+		"id" : 11,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 2,
+		"subject_code" : "PH8253",
+		"subject_name" : "Physics for Electronics Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 12,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 2,
+		"subject_code" : "BE8254",
+		"subject_name" : "Basic Electrical and Instrumentation Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 13,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 2,
+		"subject_code" : "EC8251",
+		"subject_name" : "Circuit Analysis",
+		"year" : 2017
+	},
+	{
+		"id" : 14,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 2,
+		"subject_code" : "EC8252",
+		"subject_name" : "Electronic Devices",
+		"year" : 2017
+	},
+	{
+		"id" : 15,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 2,
+		"subject_code" : "EC8261",
+		"subject_name" : "Circuits and Devices Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 16,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 2,
+		"subject_code" : "GE8261",
+		"subject_name" : "Engineering Practices Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 17,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 3,
+		"subject_code" : "MA8352",
+		"subject_name" : "Linear Algebra and Partial Differential Equations",
+		"year" : 2017
+	},
+	{
+		"id" : 18,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 3,
+		"subject_code" : "EC8393",
+		"subject_name" : "Fundamentals of Data Structures In C",
+		"year" : 2017
+	},
+	{
+		"id" : 19,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 3,
+		"subject_code" : "EC8351",
+		"subject_name" : "Electronic Circuits- I",
+		"year" : 2017
+	},
+	{
+		"id" : 20,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 3,
+		"subject_code" : "EC8352",
+		"subject_name" : "Signals and Systems",
+		"year" : 2017
+	},
+	{
+		"id" : 21,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 3,
+		"subject_code" : "EC8392",
+		"subject_name" : "Digital Electronics",
+		"year" : 2017
+	},
+	{
+		"id" : 22,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 3,
+		"subject_code" : "EC8391",
+		"subject_name" : "Control Systems Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 23,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 3,
+		"subject_code" : "EC8381",
+		"subject_name" : "Fundamentals of Data Structures in C Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 24,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 3,
+		"subject_code" : "EC8361",
+		"subject_name" : "Analog and Digital Circuits Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 25,
+		"credit" : 1,
+		"department" : "ECE",
+		"semester" : 3,
+		"subject_code" : "HS8381",
+		"subject_name" : "Interpersonal Skills/Listening & Speaking",
+		"year" : 2017
+	},
+	{
+		"id" : 26,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 4,
+		"subject_code" : "MA8451",
+		"subject_name" : "Probability and Random Processes",
+		"year" : 2017
+	},
+	{
+		"id" : 27,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 4,
+		"subject_code" : "EC8452",
+		"subject_name" : "Electronic Circuits II",
+		"year" : 2017
+	},
+	{
+		"id" : 28,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 4,
+		"subject_code" : "EC8491",
+		"subject_name" : "Communication Theory",
+		"year" : 2017
+	},
+	{
+		"id" : 29,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 4,
+		"subject_code" : "EC8451",
+		"subject_name" : "Electromagnetic Fields",
+		"year" : 2017
+	},
+	{
+		"id" : 30,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 4,
+		"subject_code" : "EC8453",
+		"subject_name" : "Linear Integrated Circuits",
+		"year" : 2017
+	},
+	{
+		"id" : 31,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 4,
+		"subject_code" : "GE8291",
+		"subject_name" : "Environmental Science and Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 32,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 4,
+		"subject_code" : "EC8461",
+		"subject_name" : "Circuits Design and Simulation Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 33,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 4,
+		"subject_code" : "EC8462",
+		"subject_name" : "Linear Integrated Circuits Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 34,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 5,
+		"subject_code" : "EC8501",
+		"subject_name" : "Digital Communication",
+		"year" : 2017
+	},
+	{
+		"id" : 35,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 5,
+		"subject_code" : "EC8553",
+		"subject_name" : "Discrete-Time Signal Processing",
+		"year" : 2017
+	},
+	{
+		"id" : 36,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 5,
+		"subject_code" : "EC8552",
+		"subject_name" : "Computer Architecture and Organization",
+		"year" : 2017
+	},
+	{
+		"id" : 37,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 5,
+		"subject_code" : "EC8551",
+		"subject_name" : "Communication Networks",
+		"year" : 2017
+	},
+	{
+		"id" : 38,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 5,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective I",
+		"year" : 2017
+	},
+	{
+		"id" : 39,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 5,
+		"subject_code" : "Open",
+		"subject_name" : "Elective I",
+		"year" : 2017
+	},
+	{
+		"id" : 40,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 5,
+		"subject_code" : "EC8562",
+		"subject_name" : "Digital Signal Processing Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 41,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 5,
+		"subject_code" : "EC8561",
+		"subject_name" : "Communication Systems Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 42,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 5,
+		"subject_code" : "EC8563",
+		"subject_name" : "Communication Networks Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 43,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 6,
+		"subject_code" : "EC8691",
+		"subject_name" : "Microprocessors and Microcontrollers",
+		"year" : 2017
+	},
+	{
+		"id" : 44,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 6,
+		"subject_code" : "EC8095",
+		"subject_name" : "VLSI Design",
+		"year" : 2017
+	},
+	{
+		"id" : 45,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 6,
+		"subject_code" : "EC8652",
+		"subject_name" : "Wireless Communication",
+		"year" : 2017
+	},
+	{
+		"id" : 46,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 6,
+		"subject_code" : "MG8591",
+		"subject_name" : "Principles of Management",
+		"year" : 2017
+	},
+	{
+		"id" : 47,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 6,
+		"subject_code" : "EC8651",
+		"subject_name" : "Transmission Lines and RF Systems",
+		"year" : 2017
+	},
+	{
+		"id" : 48,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 6,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective -II",
+		"year" : 2017
+	},
+	{
+		"id" : 49,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 6,
+		"subject_code" : "EC8681",
+		"subject_name" : "Microprocessors and Microcontrollers Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 50,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 6,
+		"subject_code" : "EC8661",
+		"subject_name" : "VLSI Design Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 51,
+		"credit" : 1,
+		"department" : "ECE",
+		"semester" : 6,
+		"subject_code" : "EC8611",
+		"subject_name" : "Technical Seminar",
+		"year" : 2017
+	},
+	{
+		"id" : 52,
+		"credit" : 1,
+		"department" : "ECE",
+		"semester" : 6,
+		"subject_code" : "HS8581",
+		"subject_name" : "Professional Communication",
+		"year" : 2017
+	},
+	{
+		"id" : 53,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 7,
+		"subject_code" : "EC8701",
+		"subject_name" : "Antennas and Microwave Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 54,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 7,
+		"subject_code" : "EC8751",
+		"subject_name" : "Optical Communication",
+		"year" : 2017
+	},
+	{
+		"id" : 55,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 7,
+		"subject_code" : "EC8791",
+		"subject_name" : "Embedded and Real Time Systems",
+		"year" : 2017
+	},
+	{
+		"id" : 56,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 7,
+		"subject_code" : "EC8702",
+		"subject_name" : "Ad hoc and Wireless Sensor Networks",
+		"year" : 2017
+	},
+	{
+		"id" : 57,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 7,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective -III",
+		"year" : 2017
+	},
+	{
+		"id" : 58,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 7,
+		"subject_code" : "Open",
+		"subject_name" : "Elective - II",
+		"year" : 2017
+	},
+	{
+		"id" : 59,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 7,
+		"subject_code" : "EC8711",
+		"subject_name" : "Embedded Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 60,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 7,
+		"subject_code" : "EC8761",
+		"subject_name" : "Advanced Communication Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 61,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 8,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective IV",
+		"year" : 2017
+	},
+	{
+		"id" : 62,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 8,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective V",
+		"year" : 2017
+	},
+	{
+		"id" : 63,
+		"credit" : 20,
+		"department" : "ECE",
+		"semester" : 8,
+		"subject_code" : "Project",
+		"subject_name" : "Work",
+		"year" : 2017
+	},
+	{
+		"id" : 64,
+		"credit" : 4,
+		"department" : "EEE",
+		"semester" : 1,
+		"subject_code" : "HS8151",
+		"subject_name" : "Communicative English",
+		"year" : 2017
+	},
+	{
+		"id" : 65,
+		"credit" : 4,
+		"department" : "EEE",
+		"semester" : 1,
+		"subject_code" : "MA8151",
+		"subject_name" : "Engineering Mathematics - I",
+		"year" : 2017
+	},
+	{
+		"id" : 66,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 1,
+		"subject_code" : "PH8151",
+		"subject_name" : "Engineering Physics",
+		"year" : 2017
+	},
+	{
+		"id" : 67,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 1,
+		"subject_code" : "CY8151",
+		"subject_name" : "Engineering Chemistry",
+		"year" : 2017
+	},
+	{
+		"id" : 68,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 1,
+		"subject_code" : "GE8151",
+		"subject_name" : "Problem Solving and Python Programming",
+		"year" : 2017
+	},
+	{
+		"id" : 69,
+		"credit" : 4,
+		"department" : "EEE",
+		"semester" : 1,
+		"subject_code" : "GE8152",
+		"subject_name" : "Engineering Graphics",
+		"year" : 2017
+	},
+	{
+		"id" : 70,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 1,
+		"subject_code" : "GE8161",
+		"subject_name" : "Problem Solving and Python Programming Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 71,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 1,
+		"subject_code" : "BS8161",
+		"subject_name" : "Physics and Chemistry Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 72,
+		"credit" : 4,
+		"department" : "EEE",
+		"semester" : 2,
+		"subject_code" : "HS8251",
+		"subject_name" : "Technical English",
+		"year" : 2017
+	},
+	{
+		"id" : 73,
+		"credit" : 4,
+		"department" : "EEE",
+		"semester" : 2,
+		"subject_code" : "MA8251",
+		"subject_name" : "Engineering Mathematics - II",
+		"year" : 2017
+	},
+	{
+		"id" : 74,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 2,
+		"subject_code" : "PH8253",
+		"subject_name" : "Physics for Electronics Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 75,
+		"credit" : 4,
+		"department" : "EEE",
+		"semester" : 2,
+		"subject_code" : "BE8252",
+		"subject_name" : "Basic Civil and Mechanical Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 76,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 2,
+		"subject_code" : "EE8251",
+		"subject_name" : "Circuit Theory",
+		"year" : 2017
+	},
+	{
+		"id" : 77,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 2,
+		"subject_code" : "GE8291",
+		"subject_name" : "Environmental Science and Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 78,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 2,
+		"subject_code" : "GE8261",
+		"subject_name" : "Engineering Practices Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 79,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 2,
+		"subject_code" : "EE8261",
+		"subject_name" : "Electric Circuits Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 80,
+		"credit" : 4,
+		"department" : "EEE",
+		"semester" : 3,
+		"subject_code" : "MA8353",
+		"subject_name" : "Transforms and Partial Differential Equations",
+		"year" : 2017
+	},
+	{
+		"id" : 81,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 3,
+		"subject_code" : "EE8351",
+		"subject_name" : "Digital Logic Circuits",
+		"year" : 2017
+	},
+	{
+		"id" : 82,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 3,
+		"subject_code" : "EE8391",
+		"subject_name" : "Electromagnetic Theory",
+		"year" : 2017
+	},
+	{
+		"id" : 83,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 3,
+		"subject_code" : "EE8301",
+		"subject_name" : "Electrical Machines - I",
+		"year" : 2017
+	},
+	{
+		"id" : 84,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 3,
+		"subject_code" : "EC8353",
+		"subject_name" : "Electron Devices and Circuits",
+		"year" : 2017
+	},
+	{
+		"id" : 85,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 3,
+		"subject_code" : "ME8792",
+		"subject_name" : "Power Plant Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 86,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 3,
+		"subject_code" : "EC8311",
+		"subject_name" : "Electronics Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 87,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 3,
+		"subject_code" : "EE8311",
+		"subject_name" : "Electrical Machines Laboratory - I",
+		"year" : 2017
+	},
+	{
+		"id" : 88,
+		"credit" : 4,
+		"department" : "EEE",
+		"semester" : 4,
+		"subject_code" : "MA8491",
+		"subject_name" : "Numerical Methods",
+		"year" : 2017
+	},
+	{
+		"id" : 89,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 4,
+		"subject_code" : "EE8401",
+		"subject_name" : "Electrical Machines - II",
+		"year" : 2017
+	},
+	{
+		"id" : 90,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 4,
+		"subject_code" : "EE8402",
+		"subject_name" : "Transmission and Distribution",
+		"year" : 2017
+	},
+	{
+		"id" : 91,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 4,
+		"subject_code" : "EE8403",
+		"subject_name" : "Measurements and Instrumentation",
+		"year" : 2017
+	},
+	{
+		"id" : 92,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 4,
+		"subject_code" : "EE8451",
+		"subject_name" : "Linear Integrated Circuits and Applications",
+		"year" : 2017
+	},
+	{
+		"id" : 93,
+		"credit" : 4,
+		"department" : "EEE",
+		"semester" : 4,
+		"subject_code" : "IC8451",
+		"subject_name" : "Control Systems",
+		"year" : 2017
+	},
+	{
+		"id" : 94,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 4,
+		"subject_code" : "EE8411",
+		"subject_name" : "Electrical Machines Laboratory - II",
+		"year" : 2017
+	},
+	{
+		"id" : 95,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 4,
+		"subject_code" : "EE8461",
+		"subject_name" : "Linear and Digital Integrated Circuits Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 96,
+		"credit" : 1,
+		"department" : "EEE",
+		"semester" : 4,
+		"subject_code" : "EE8412",
+		"subject_name" : "Technical Seminar",
+		"year" : 2017
+	},
+	{
+		"id" : 97,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 5,
+		"subject_code" : "EE8501",
+		"subject_name" : "Power System Analysis",
+		"year" : 2017
+	},
+	{
+		"id" : 98,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 5,
+		"subject_code" : "EE8551",
+		"subject_name" : "Microprocessors and Microcontrollers",
+		"year" : 2017
+	},
+	{
+		"id" : 99,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 5,
+		"subject_code" : "EE8552",
+		"subject_name" : "Power Electronics",
+		"year" : 2017
+	},
+	{
+		"id" : 100,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 5,
+		"subject_code" : "EE8591",
+		"subject_name" : "Digital Signal Processing",
+		"year" : 2017
+	},
+	{
+		"id" : 101,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 5,
+		"subject_code" : "CS8392",
+		"subject_name" : "Object Oriented Programming",
+		"year" : 2017
+	},
+	{
+		"id" : 102,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 5,
+		"subject_code" : "Open",
+		"subject_name" : "Elective I",
+		"year" : 2017
+	},
+	{
+		"id" : 103,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 5,
+		"subject_code" : "EE8511",
+		"subject_name" : "Control and Instrumentation Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 104,
+		"credit" : 1,
+		"department" : "EEE",
+		"semester" : 5,
+		"subject_code" : "HS8581",
+		"subject_name" : "Professional Communication",
+		"year" : 2017
+	},
+	{
+		"id" : 105,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 5,
+		"subject_code" : "CS8383",
+		"subject_name" : "Object Oriented Programming Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 106,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 6,
+		"subject_code" : "EE8601",
+		"subject_name" : "Solid State Drives",
+		"year" : 2017
+	},
+	{
+		"id" : 107,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 6,
+		"subject_code" : "EE8602",
+		"subject_name" : "Protection and Switchgear",
+		"year" : 2017
+	},
+	{
+		"id" : 108,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 6,
+		"subject_code" : "EE8691",
+		"subject_name" : "Embedded Systems",
+		"year" : 2017
+	},
+	{
+		"id" : 109,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 6,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective I",
+		"year" : 2017
+	},
+	{
+		"id" : 110,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 6,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective II",
+		"year" : 2017
+	},
+	{
+		"id" : 111,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 6,
+		"subject_code" : "EE8661",
+		"subject_name" : "Power Electronics and Drives Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 112,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 6,
+		"subject_code" : "EE8681",
+		"subject_name" : "Microprocessors and Microcontrollers Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 113,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 6,
+		"subject_code" : "EE8611",
+		"subject_name" : "Mini Project",
+		"year" : 2017
+	},
+	{
+		"id" : 114,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 7,
+		"subject_code" : "EE8701",
+		"subject_name" : "High Voltage Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 115,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 7,
+		"subject_code" : "EE8702",
+		"subject_name" : "Power System Operation and Control",
+		"year" : 2017
+	},
+	{
+		"id" : 116,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 7,
+		"subject_code" : "EE8703",
+		"subject_name" : "Renewable Energy Systems",
+		"year" : 2017
+	},
+	{
+		"id" : 117,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 7,
+		"subject_code" : "Open",
+		"subject_name" : "Elective II",
+		"year" : 2017
+	},
+	{
+		"id" : 118,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 7,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective III",
+		"year" : 2017
+	},
+	{
+		"id" : 119,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 7,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective IV",
+		"year" : 2017
+	},
+	{
+		"id" : 120,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 7,
+		"subject_code" : "EE8711",
+		"subject_name" : "Power System Simulation Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 121,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 7,
+		"subject_code" : "EE8712",
+		"subject_name" : "Renewable Energy Systems Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 122,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 8,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective V",
+		"year" : 2017
+	},
+	{
+		"id" : 123,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 8,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective VI",
+		"year" : 2017
+	},
+	{
+		"id" : 124,
+		"credit" : 10,
+		"department" : "EEE",
+		"semester" : 8,
+		"subject_code" : "EE8811",
+		"subject_name" : "Project Work",
+		"year" : 2017
+	},
+	{
+		"id" : 125,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 1,
+		"subject_code" : "HS8151",
+		"subject_name" : "Communicative English",
+		"year" : 2017
+	},
+	{
+		"id" : 126,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 1,
+		"subject_code" : "MA8151",
+		"subject_name" : "Engineering Mathematics - I",
+		"year" : 2017
+	},
+	{
+		"id" : 127,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 1,
+		"subject_code" : "PH8151",
+		"subject_name" : "Engineering Physics",
+		"year" : 2017
+	},
+	{
+		"id" : 128,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 1,
+		"subject_code" : "CY8151",
+		"subject_name" : "Engineering Chemistry",
+		"year" : 2017
+	},
+	{
+		"id" : 129,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 1,
+		"subject_code" : "GE8151",
+		"subject_name" : "Problem Solving and Python Programming",
+		"year" : 2017
+	},
+	{
+		"id" : 130,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 1,
+		"subject_code" : "GE8152",
+		"subject_name" : "Engineering Graphics",
+		"year" : 2017
+	},
+	{
+		"id" : 131,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 1,
+		"subject_code" : "GE8161",
+		"subject_name" : "Problem Solving and Python Programming Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 132,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 1,
+		"subject_code" : "BS8161",
+		"subject_name" : "Physics and Chemistry Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 133,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 2,
+		"subject_code" : "HS8251",
+		"subject_name" : "Technical English",
+		"year" : 2017
+	},
+	{
+		"id" : 134,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 2,
+		"subject_code" : "MA8251",
+		"subject_name" : "Engineering Mathematics - II",
+		"year" : 2017
+	},
+	{
+		"id" : 135,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 2,
+		"subject_code" : "PH8252",
+		"subject_name" : "Physics for Information Science",
+		"year" : 2017
+	},
+	{
+		"id" : 136,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 2,
+		"subject_code" : "BE8255",
+		"subject_name" : "Basic Electrical, Electronics and Measurement Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 137,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 2,
+		"subject_code" : "GE8291",
+		"subject_name" : "Environmental Science and Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 138,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 2,
+		"subject_code" : "CS8251",
+		"subject_name" : "Programming in C",
+		"year" : 2017
+	},
+	{
+		"id" : 139,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 2,
+		"subject_code" : "GE8261",
+		"subject_name" : "Engineering Practices Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 140,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 2,
+		"subject_code" : "CS8261",
+		"subject_name" : "C Programming Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 141,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 3,
+		"subject_code" : "MA8351",
+		"subject_name" : "Discrete Mathematics",
+		"year" : 2017
+	},
+	{
+		"id" : 142,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 3,
+		"subject_code" : "CS8351",
+		"subject_name" : "Digital Principles and System Design",
+		"year" : 2017
+	},
+	{
+		"id" : 143,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 3,
+		"subject_code" : "CS8391",
+		"subject_name" : "Data Structures",
+		"year" : 2017
+	},
+	{
+		"id" : 144,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 3,
+		"subject_code" : "CS8392",
+		"subject_name" : "Object Oriented Programming",
+		"year" : 2017
+	},
+	{
+		"id" : 145,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 3,
+		"subject_code" : "EC8395",
+		"subject_name" : "Communication Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 146,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 3,
+		"subject_code" : "CS8381",
+		"subject_name" : "Data Structures Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 147,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 3,
+		"subject_code" : "CS8382",
+		"subject_name" : "Object Oriented Programming Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 148,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 3,
+		"subject_code" : "CS8383",
+		"subject_name" : "Digital Systems Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 149,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 3,
+		"subject_code" : "HS8381",
+		"subject_name" : "Interpersonal Skills/Listening & Speaking",
+		"year" : 2017
+	},
+	{
+		"id" : 150,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 4,
+		"subject_code" : "MA8402",
+		"subject_name" : "Probability and Queueing Theory",
+		"year" : 2017
+	},
+	{
+		"id" : 151,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 4,
+		"subject_code" : "CS8491",
+		"subject_name" : "Computer Architecture",
+		"year" : 2017
+	},
+	{
+		"id" : 152,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 4,
+		"subject_code" : "CS8492",
+		"subject_name" : "Database Management Systems",
+		"year" : 2017
+	},
+	{
+		"id" : 153,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 4,
+		"subject_code" : "CS8451",
+		"subject_name" : "Design and Analysis of Algorithms",
+		"year" : 2017
+	},
+	{
+		"id" : 154,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 4,
+		"subject_code" : "CS8493",
+		"subject_name" : "Operating Systems",
+		"year" : 2017
+	},
+	{
+		"id" : 155,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 4,
+		"subject_code" : "CS8494",
+		"subject_name" : "Software Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 156,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 4,
+		"subject_code" : "CS8481",
+		"subject_name" : "Database Management Systems Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 157,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 4,
+		"subject_code" : "CS8461",
+		"subject_name" : "Operating Systems Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 158,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 4,
+		"subject_code" : "HS8461",
+		"subject_name" : "Advanced Reading and Writing",
+		"year" : 2017
+	},
+	{
+		"id" : 159,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 5,
+		"subject_code" : "MA8551",
+		"subject_name" : "Algebra and Number Theory",
+		"year" : 2017
+	},
+	{
+		"id" : 160,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 5,
+		"subject_code" : "CS8591",
+		"subject_name" : "Computer Networks",
+		"year" : 2017
+	},
+	{
+		"id" : 161,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 5,
+		"subject_code" : "EC8691",
+		"subject_name" : "Microprocessors and Microcontrollers",
+		"year" : 2017
+	},
+	{
+		"id" : 162,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 5,
+		"subject_code" : "CS8501",
+		"subject_name" : "Theory of Computation",
+		"year" : 2017
+	},
+	{
+		"id" : 163,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 5,
+		"subject_code" : "CS8592",
+		"subject_name" : "Object Oriented Analysis and Design",
+		"year" : 2017
+	},
+	{
+		"id" : 164,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 5,
+		"subject_code" : "OE33003",
+		"subject_name" : "Open Elective I",
+		"year" : 2017
+	},
+	{
+		"id" : 165,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 5,
+		"subject_code" : "EC8681",
+		"subject_name" : "Microprocessors and Microcontrollers Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 166,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 5,
+		"subject_code" : "CS8582",
+		"subject_name" : "Object Oriented Analysis and Design Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 167,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 5,
+		"subject_code" : "CS8581",
+		"subject_name" : "Networks Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 168,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 6,
+		"subject_code" : "CS8651",
+		"subject_name" : "Internet Programming",
+		"year" : 2017
+	},
+	{
+		"id" : 169,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 6,
+		"subject_code" : "CS8691",
+		"subject_name" : "Artificial Intelligence",
+		"year" : 2017
+	},
+	{
+		"id" : 170,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 6,
+		"subject_code" : "CS8601",
+		"subject_name" : "Mobile Computing",
+		"year" : 2017
+	},
+	{
+		"id" : 171,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 6,
+		"subject_code" : "CS8602",
+		"subject_name" : "Compiler Design",
+		"year" : 2017
+	},
+	{
+		"id" : 172,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 6,
+		"subject_code" : "CS8603",
+		"subject_name" : "Distributed Systems",
+		"year" : 2017
+	},
+	{
+		"id" : 173,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 6,
+		"subject_code" : "PE",
+		"subject_name" : "Professional Elective I",
+		"year" : 2017
+	},
+	{
+		"id" : 174,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 6,
+		"subject_code" : "CS8661",
+		"subject_name" : "Internet Programming Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 175,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 6,
+		"subject_code" : "CS8662",
+		"subject_name" : "Mobile Application Development Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 176,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 6,
+		"subject_code" : "CS8611",
+		"subject_name" : "Mini Project",
+		"year" : 2017
+	},
+	{
+		"id" : 177,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 6,
+		"subject_code" : "HS8581",
+		"subject_name" : "Professional Communication",
+		"year" : 2017
+	},
+	{
+		"id" : 178,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 7,
+		"subject_code" : "MG8591",
+		"subject_name" : "Principles of Management",
+		"year" : 2017
+	},
+	{
+		"id" : 179,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 7,
+		"subject_code" : "CS8792",
+		"subject_name" : "Cryptography and Network Security",
+		"year" : 2017
+	},
+	{
+		"id" : 180,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 7,
+		"subject_code" : "CS8791",
+		"subject_name" : "Cloud Computing",
+		"year" : 2017
+	},
+	{
+		"id" : 181,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 7,
+		"subject_code" : "OE",
+		"subject_name" : "Open Elective II",
+		"year" : 2017
+	},
+	{
+		"id" : 182,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 7,
+		"subject_code" : "PE",
+		"subject_name" : "Professional Elective II",
+		"year" : 2017
+	},
+	{
+		"id" : 183,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 7,
+		"subject_code" : "PE",
+		"subject_name" : "Professional Elective III",
+		"year" : 2017
+	},
+	{
+		"id" : 184,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 7,
+		"subject_code" : "CS8711",
+		"subject_name" : "Cloud Computing Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 185,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 7,
+		"subject_code" : "IT8761",
+		"subject_name" : "Security Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 186,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 8,
+		"subject_code" : "PE",
+		"subject_name" : "Professional Elective IV",
+		"year" : 2017
+	},
+	{
+		"id" : 187,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 8,
+		"subject_code" : "PE",
+		"subject_name" : "Professional Elective V",
+		"year" : 2017
+	},
+	{
+		"id" : 188,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 8,
+		"subject_code" : "CS8811",
+		"subject_name" : "Project Work",
+		"year" : 2017
+	},
+	{
+		"id" : 189,
+		"credit" : 4,
+		"department" : "Civil",
+		"semester" : 1,
+		"subject_code" : "HS8151",
+		"subject_name" : "Communicative English",
+		"year" : 2017
+	},
+	{
+		"id" : 190,
+		"credit" : 4,
+		"department" : "Civil",
+		"semester" : 1,
+		"subject_code" : "MA8151",
+		"subject_name" : "Engineering Mathematics - I",
+		"year" : 2017
+	},
+	{
+		"id" : 191,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 1,
+		"subject_code" : "PH8151",
+		"subject_name" : "Engineering Physics",
+		"year" : 2017
+	},
+	{
+		"id" : 192,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 1,
+		"subject_code" : "CY8151",
+		"subject_name" : "Engineering Chemistry",
+		"year" : 2017
+	},
+	{
+		"id" : 193,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 1,
+		"subject_code" : "GE8151",
+		"subject_name" : "Problem Solving and Python Programming",
+		"year" : 2017
+	},
+	{
+		"id" : 194,
+		"credit" : 4,
+		"department" : "Civil",
+		"semester" : 1,
+		"subject_code" : "GE8152",
+		"subject_name" : "Engineering Graphics",
+		"year" : 2017
+	},
+	{
+		"id" : 195,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 1,
+		"subject_code" : "GE8161",
+		"subject_name" : "Problem Solving and Python Programming Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 196,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 1,
+		"subject_code" : "BS8161",
+		"subject_name" : "Physics and Chemistry Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 197,
+		"credit" : 4,
+		"department" : "Civil",
+		"semester" : 2,
+		"subject_code" : "HS8251",
+		"subject_name" : "Technical English",
+		"year" : 2017
+	},
+	{
+		"id" : 198,
+		"credit" : 4,
+		"department" : "Civil",
+		"semester" : 2,
+		"subject_code" : "MA8251",
+		"subject_name" : "Engineering Mathematics - II",
+		"year" : 2017
+	},
+	{
+		"id" : 199,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 2,
+		"subject_code" : "PH8201",
+		"subject_name" : "Physics for Civil Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 200,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 2,
+		"subject_code" : "BE8251",
+		"subject_name" : "Basic Electrical and Electronics Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 201,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 2,
+		"subject_code" : "GE8291",
+		"subject_name" : "Environmental Science and Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 202,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 2,
+		"subject_code" : "GE8292",
+		"subject_name" : "Engineering Mechanics",
+		"year" : 2017
+	},
+	{
+		"id" : 203,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 2,
+		"subject_code" : "GE8261",
+		"subject_name" : "Engineering Practices Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 204,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 2,
+		"subject_code" : "CE8211",
+		"subject_name" : "Computer Aided Building Drawing",
+		"year" : 2017
+	},
+	{
+		"id" : 205,
+		"credit" : 4,
+		"department" : "Civil",
+		"semester" : 3,
+		"subject_code" : "MA8353",
+		"subject_name" : "Transforms and Partial Differential Equations",
+		"year" : 2017
+	},
+	{
+		"id" : 206,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 3,
+		"subject_code" : "CE8301",
+		"subject_name" : "Strength of Materials I",
+		"year" : 2017
+	},
+	{
+		"id" : 207,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 3,
+		"subject_code" : "CE8302",
+		"subject_name" : "Fluid Mechanics",
+		"year" : 2017
+	},
+	{
+		"id" : 208,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 3,
+		"subject_code" : "CE8351",
+		"subject_name" : "Surveying",
+		"year" : 2017
+	},
+	{
+		"id" : 209,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 3,
+		"subject_code" : "CE8391",
+		"subject_name" : "Construction Materials",
+		"year" : 2017
+	},
+	{
+		"id" : 210,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 3,
+		"subject_code" : "CE8392",
+		"subject_name" : "Engineering Geology",
+		"year" : 2017
+	},
+	{
+		"id" : 211,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 3,
+		"subject_code" : "CE8311",
+		"subject_name" : "Construction Materials Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 212,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 3,
+		"subject_code" : "CE8361",
+		"subject_name" : "Surveying Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 213,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 3,
+		"subject_code" : "HS8381",
+		"subject_name" : "Interpersonal Skills / Listening and Speaking",
+		"year" : 2017
+	},
+	{
+		"id" : 214,
+		"credit" : 4,
+		"department" : "Civil",
+		"semester" : 4,
+		"subject_code" : "MA8491",
+		"subject_name" : "Numerical Methods",
+		"year" : 2017
+	},
+	{
+		"id" : 215,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 4,
+		"subject_code" : "CE8401",
+		"subject_name" : "Construction Techniques and Practices",
+		"year" : 2017
+	},
+	{
+		"id" : 216,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 4,
+		"subject_code" : "CE8402",
+		"subject_name" : "Strength of Materials II",
+		"year" : 2017
+	},
+	{
+		"id" : 217,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 4,
+		"subject_code" : "CE8403",
+		"subject_name" : "Applied Hydraulic Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 218,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 4,
+		"subject_code" : "CE8404",
+		"subject_name" : "Concrete Technology",
+		"year" : 2017
+	},
+	{
+		"id" : 219,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 4,
+		"subject_code" : "CE8491",
+		"subject_name" : "Soil Mechanics",
+		"year" : 2017
+	},
+	{
+		"id" : 220,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 4,
+		"subject_code" : "CE8481",
+		"subject_name" : "Strength of Materials Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 221,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 4,
+		"subject_code" : "CE8461",
+		"subject_name" : "Hydraulic Engineering Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 222,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 4,
+		"subject_code" : "HS8461",
+		"subject_name" : "Advanced Reading and Writing",
+		"year" : 2017
+	},
+	{
+		"id" : 223,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 5,
+		"subject_code" : "CE8501",
+		"subject_name" : "Design of Reinforced Cement Concrete Elements",
+		"year" : 2017
+	},
+	{
+		"id" : 224,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 5,
+		"subject_code" : "CE8502",
+		"subject_name" : "Structural Analysis I",
+		"year" : 2017
+	},
+	{
+		"id" : 225,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 5,
+		"subject_code" : "EN8491",
+		"subject_name" : "Water Supply Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 226,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 5,
+		"subject_code" : "CE8591",
+		"subject_name" : "Foundation Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 227,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 5,
+		"subject_code" : "PE",
+		"subject_name" : "Professional Elective I",
+		"year" : 2017
+	},
+	{
+		"id" : 228,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 5,
+		"subject_code" : "OE",
+		"subject_name" : "Open Elective I",
+		"year" : 2017
+	},
+	{
+		"id" : 229,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 5,
+		"subject_code" : "CE8511",
+		"subject_name" : "Soil Mechanics Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 230,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 5,
+		"subject_code" : "CE8512",
+		"subject_name" : "Water and Waste Water Analysis Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 231,
+		"credit" : 0,
+		"department" : "Civil",
+		"semester" : 5,
+		"subject_code" : "CE8513",
+		"subject_name" : "Survey Camp (2 weeks – During IV Semester)",
+		"year" : 2017
+	},
+	{
+		"id" : 232,
+		"credit" : 4,
+		"department" : "Civil",
+		"semester" : 6,
+		"subject_code" : "CE8601",
+		"subject_name" : "Design of Steel Structural Elements",
+		"year" : 2017
+	},
+	{
+		"id" : 233,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 6,
+		"subject_code" : "CE8602",
+		"subject_name" : "Structural Analysis II",
+		"year" : 2017
+	},
+	{
+		"id" : 234,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 6,
+		"subject_code" : "CE8603",
+		"subject_name" : "Irrigation Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 235,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 6,
+		"subject_code" : "CE8604",
+		"subject_name" : "Highway Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 236,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 6,
+		"subject_code" : "EN8592",
+		"subject_name" : "Wastewater Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 237,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 6,
+		"subject_code" : "PE",
+		"subject_name" : "Professional Elective II",
+		"year" : 2017
+	},
+	{
+		"id" : 238,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 6,
+		"subject_code" : "CE8611",
+		"subject_name" : "Highway Engineering Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 239,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 6,
+		"subject_code" : "CE8612",
+		"subject_name" : "Irrigation and Environmental Engineering Drawing",
+		"year" : 2017
+	},
+	{
+		"id" : 240,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 6,
+		"subject_code" : "HS8581",
+		"subject_name" : "Professional Communication",
+		"year" : 2017
+	},
+	{
+		"id" : 241,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 7,
+		"subject_code" : "CE8701",
+		"subject_name" : "Estimation, Costing and Valuation",
+		"year" : 2017
+	},
+	{
+		"id" : 242,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 7,
+		"subject_code" : "CE8702",
+		"subject_name" : "Railways, Airports, Docks and Harbour Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 243,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 7,
+		"subject_code" : "CE8703",
+		"subject_name" : "Structural Design and Drawing",
+		"year" : 2017
+	},
+	{
+		"id" : 244,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 7,
+		"subject_code" : "PE",
+		"subject_name" : "Professional Elective III",
+		"year" : 2017
+	},
+	{
+		"id" : 245,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 7,
+		"subject_code" : "OE",
+		"subject_name" : "Open Elective II",
+		"year" : 2017
+	},
+	{
+		"id" : 246,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 7,
+		"subject_code" : "CE8711",
+		"subject_name" : "Creative and Innovative Project (Activity Based - Subject Related)",
+		"year" : 2017
+	},
+	{
+		"id" : 247,
+		"credit" : 0,
+		"department" : "Civil",
+		"semester" : 7,
+		"subject_code" : "CE8712",
+		"subject_name" : "Industrial Training (4 weeks During VI Semester – Summer)",
+		"year" : 2017
+	},
+	{
+		"id" : 248,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 8,
+		"subject_code" : "PE",
+		"subject_name" : "Professional Elective IV",
+		"year" : 2017
+	},
+	{
+		"id" : 249,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 8,
+		"subject_code" : "PE",
+		"subject_name" : "Professional Elective V",
+		"year" : 2017
+	},
+	{
+		"id" : 250,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 8,
+		"subject_code" : "CE8811",
+		"subject_name" : "Project Work",
+		"year" : 2017
+	},
+	{
+		"id" : 251,
+		"credit" : 4,
+		"department" : "Mech",
+		"semester" : 1,
+		"subject_code" : "HS8151",
+		"subject_name" : "Communicative English",
+		"year" : 2017
+	},
+	{
+		"id" : 252,
+		"credit" : 4,
+		"department" : "Mech",
+		"semester" : 1,
+		"subject_code" : "MA8151",
+		"subject_name" : "Engineering Mathematics - I",
+		"year" : 2017
+	},
+	{
+		"id" : 253,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 1,
+		"subject_code" : "PH8151",
+		"subject_name" : "Engineering Physics",
+		"year" : 2017
+	},
+	{
+		"id" : 254,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 1,
+		"subject_code" : "CY8151",
+		"subject_name" : "Engineering Chemistry",
+		"year" : 2017
+	},
+	{
+		"id" : 255,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 1,
+		"subject_code" : "GE8151",
+		"subject_name" : "Problem Solving and Python Programming",
+		"year" : 2017
+	},
+	{
+		"id" : 256,
+		"credit" : 4,
+		"department" : "Mech",
+		"semester" : 1,
+		"subject_code" : "GE8152",
+		"subject_name" : "Engineering Graphics",
+		"year" : 2017
+	},
+	{
+		"id" : 257,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 1,
+		"subject_code" : "GE8161",
+		"subject_name" : "Problem Solving and Python Programming Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 258,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 1,
+		"subject_code" : "BS8161",
+		"subject_name" : "Physics and Chemistry Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 259,
+		"credit" : 4,
+		"department" : "Mech",
+		"semester" : 2,
+		"subject_code" : "HS8251",
+		"subject_name" : "Technical English",
+		"year" : 2017
+	},
+	{
+		"id" : 260,
+		"credit" : 4,
+		"department" : "Mech",
+		"semester" : 2,
+		"subject_code" : "MA8251",
+		"subject_name" : "Engineering Mathematics - II",
+		"year" : 2017
+	},
+	{
+		"id" : 261,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 2,
+		"subject_code" : "PH8251",
+		"subject_name" : "Materials Science",
+		"year" : 2017
+	},
+	{
+		"id" : 262,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 2,
+		"subject_code" : "BE8253",
+		"subject_name" : "Basic Electrical, Electronics and Instrumentation Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 263,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 2,
+		"subject_code" : "GE8291",
+		"subject_name" : "Environmental Science and Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 264,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 2,
+		"subject_code" : "GE8292",
+		"subject_name" : "Engineering Mechanics",
+		"year" : 2017
+	},
+	{
+		"id" : 265,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 2,
+		"subject_code" : "GE8261",
+		"subject_name" : "Engineering Practices Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 266,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 2,
+		"subject_code" : "BE8261",
+		"subject_name" : "Basic Electrical, Electronics and Instrumentation Engineering Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 267,
+		"credit" : 4,
+		"department" : "Mech",
+		"semester" : 3,
+		"subject_code" : "MA8353",
+		"subject_name" : "Transforms and Partial Differential Equations",
+		"year" : 2017
+	},
+	{
+		"id" : 268,
+		"credit" : 5,
+		"department" : "Mech",
+		"semester" : 3,
+		"subject_code" : "ME8391",
+		"subject_name" : "Engineering Thermodynamics",
+		"year" : 2017
+	},
+	{
+		"id" : 269,
+		"credit" : 4,
+		"department" : "Mech",
+		"semester" : 3,
+		"subject_code" : "CE8394",
+		"subject_name" : "Fluid Mechanics and Machinery",
+		"year" : 2017
+	},
+	{
+		"id" : 270,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 3,
+		"subject_code" : "ME8351",
+		"subject_name" : "Manufacturing Technology - I",
+		"year" : 2017
+	},
+	{
+		"id" : 271,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 3,
+		"subject_code" : "EE8353",
+		"subject_name" : "Electrical Drives and Controls",
+		"year" : 2017
+	},
+	{
+		"id" : 272,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 3,
+		"subject_code" : "ME8361",
+		"subject_name" : "Manufacturing Technology Laboratory - I",
+		"year" : 2017
+	},
+	{
+		"id" : 273,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 3,
+		"subject_code" : "ME8381",
+		"subject_name" : "Computer Aided Machine Drawing",
+		"year" : 2017
+	},
+	{
+		"id" : 274,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 3,
+		"subject_code" : "EE8361",
+		"subject_name" : "Electrical Engineering Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 275,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 3,
+		"subject_code" : "HS8381",
+		"subject_name" : "Interpersonal Skills / Listening & Speaking",
+		"year" : 2017
+	},
+	{
+		"id" : 276,
+		"credit" : 4,
+		"department" : "Mech",
+		"semester" : 4,
+		"subject_code" : "MA8452",
+		"subject_name" : "Statistics and Numerical Methods",
+		"year" : 2017
+	},
+	{
+		"id" : 277,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 4,
+		"subject_code" : "ME8492",
+		"subject_name" : "Kinematics of Machinery",
+		"year" : 2017
+	},
+	{
+		"id" : 278,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 4,
+		"subject_code" : "ME8451",
+		"subject_name" : "Manufacturing Technology – II",
+		"year" : 2017
+	},
+	{
+		"id" : 279,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 4,
+		"subject_code" : "ME8491",
+		"subject_name" : "Engineering Metallurgy",
+		"year" : 2017
+	},
+	{
+		"id" : 280,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 4,
+		"subject_code" : "CE8395",
+		"subject_name" : "Strength of Materials for Mechanical Engineers",
+		"year" : 2017
+	},
+	{
+		"id" : 281,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 4,
+		"subject_code" : "ME8493",
+		"subject_name" : "Thermal Engineering - I",
+		"year" : 2017
+	},
+	{
+		"id" : 282,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 4,
+		"subject_code" : "ME8462",
+		"subject_name" : "Manufacturing Technology Laboratory – II",
+		"year" : 2017
+	},
+	{
+		"id" : 283,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 4,
+		"subject_code" : "CE8381",
+		"subject_name" : "Strength of Materials and Fluid Mechanics and Machinery Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 284,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 4,
+		"subject_code" : "HS8461",
+		"subject_name" : "Advanced Reading and Writing",
+		"year" : 2017
+	},
+	{
+		"id" : 285,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 5,
+		"subject_code" : "ME8595",
+		"subject_name" : "Thermal Engineering - II",
+		"year" : 2017
+	},
+	{
+		"id" : 286,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 5,
+		"subject_code" : "ME8593",
+		"subject_name" : "Design of Machine Elements",
+		"year" : 2017
+	},
+	{
+		"id" : 287,
+		"credit" : 4,
+		"department" : "Mech",
+		"semester" : 5,
+		"subject_code" : "ME8501",
+		"subject_name" : "Metrology and Measurements",
+		"year" : 2017
+	},
+	{
+		"id" : 288,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 5,
+		"subject_code" : "ME8594",
+		"subject_name" : "Dynamics of Machines",
+		"year" : 2017
+	},
+	{
+		"id" : 289,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 5,
+		"subject_code" : "OE",
+		"subject_name" : "Open Elective I",
+		"year" : 2017
+	},
+	{
+		"id" : 290,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 5,
+		"subject_code" : "ME8511",
+		"subject_name" : "Kinematics and Dynamics Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 291,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 5,
+		"subject_code" : "ME8512",
+		"subject_name" : "Thermal Engineering Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 292,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 5,
+		"subject_code" : "ME8513",
+		"subject_name" : "Metrology and Measurements Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 293,
+		"credit" : 4,
+		"department" : "Mech",
+		"semester" : 6,
+		"subject_code" : "ME8651",
+		"subject_name" : "Design of Transmission Systems",
+		"year" : 2017
+	},
+	{
+		"id" : 294,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 6,
+		"subject_code" : "ME8691",
+		"subject_name" : "Computer Aided Design and Manufacturing",
+		"year" : 2017
+	},
+	{
+		"id" : 295,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 6,
+		"subject_code" : "ME8693",
+		"subject_name" : "Heat and Mass Transfer",
+		"year" : 2017
+	},
+	{
+		"id" : 296,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 6,
+		"subject_code" : "ME8692",
+		"subject_name" : "Finite Element Analysis",
+		"year" : 2017
+	},
+	{
+		"id" : 297,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 6,
+		"subject_code" : "ME8694",
+		"subject_name" : "Hydraulics and Pneumatics",
+		"year" : 2017
+	},
+	{
+		"id" : 298,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 6,
+		"subject_code" : "PE",
+		"subject_name" : "Professional Elective - I",
+		"year" : 2017
+	},
+	{
+		"id" : 299,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 6,
+		"subject_code" : "ME8681",
+		"subject_name" : "CAD / CAM Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 300,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 6,
+		"subject_code" : "ME8682",
+		"subject_name" : "Design and Fabrication Project",
+		"year" : 2017
+	},
+	{
+		"id" : 301,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 6,
+		"subject_code" : "HS8581",
+		"subject_name" : "Professional Communication",
+		"year" : 2017
+	},
+	{
+		"id" : 302,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 7,
+		"subject_code" : "ME8792",
+		"subject_name" : "Power Plant Engineering",
+		"year" : 2017
+	},
+	{
+		"id" : 303,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 7,
+		"subject_code" : "ME8793",
+		"subject_name" : "Process Planning and Cost Estimation",
+		"year" : 2017
+	},
+	{
+		"id" : 304,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 7,
+		"subject_code" : "ME8791",
+		"subject_name" : "Mechatronics",
+		"year" : 2017
+	},
+	{
+		"id" : 305,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 7,
+		"subject_code" : "OE",
+		"subject_name" : "Open Elective - II",
+		"year" : 2017
+	},
+	{
+		"id" : 306,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 7,
+		"subject_code" : "PE",
+		"subject_name" : "Professional Elective – II",
+		"year" : 2017
+	},
+	{
+		"id" : 307,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 7,
+		"subject_code" : "PE",
+		"subject_name" : "Professional Elective – III",
+		"year" : 2017
+	},
+	{
+		"id" : 308,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 7,
+		"subject_code" : "ME8711",
+		"subject_name" : "Simulation and Analysis Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 309,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 7,
+		"subject_code" : "ME8781",
+		"subject_name" : "Mechatronics Laboratory",
+		"year" : 2017
+	},
+	{
+		"id" : 310,
+		"credit" : 1,
+		"department" : "Mech",
+		"semester" : 7,
+		"subject_code" : "ME8712",
+		"subject_name" : "Technical Seminar",
+		"year" : 2017
+	},
+	{
+		"id" : 311,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 8,
+		"subject_code" : "MG8591",
+		"subject_name" : "Principles of Management",
+		"year" : 2017
+	},
+	{
+		"id" : 312,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 8,
+		"subject_code" : "PE",
+		"subject_name" : "Professional Elective – IV",
+		"year" : 2017
+	},
+	{
+		"id" : 313,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 8,
+		"subject_code" : "ME8811",
+		"subject_name" : "Project Work",
+		"year" : 2017
+	},
+	{
+		"id" : 314,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 1,
+		"subject_code" : "HS3152",
+		"subject_name" : "Professional English - I",
+		"year" : 2021
+	},
+	{
+		"id" : 315,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 1,
+		"subject_code" : "MA3151",
+		"subject_name" : "Matrices and Calculus",
+		"year" : 2021
+	},
+	{
+		"id" : 316,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 1,
+		"subject_code" : "PH3151",
+		"subject_name" : "Engineering Physics",
+		"year" : 2021
+	},
+	{
+		"id" : 317,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 1,
+		"subject_code" : "CY3151",
+		"subject_name" : "Engineering Chemistry",
+		"year" : 2021
+	},
+	{
+		"id" : 318,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 1,
+		"subject_code" : "GE3151",
+		"subject_name" : "Problem Solving and Python Programming",
+		"year" : 2021
+	},
+	{
+		"id" : 319,
+		"credit" : 1,
+		"department" : "ECE",
+		"semester" : 1,
+		"subject_code" : "GE3152",
+		"subject_name" : "Heritage of Tamils",
+		"year" : 2021
+	},
+	{
+		"id" : 320,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 1,
+		"subject_code" : "GE3171",
+		"subject_name" : "Problem Solving and Python Programming Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 321,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 1,
+		"subject_code" : "BS3171",
+		"subject_name" : "Physics and Chemistry Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 322,
+		"credit" : 1,
+		"department" : "ECE",
+		"semester" : 1,
+		"subject_code" : "GE3172",
+		"subject_name" : "English Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 323,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 2,
+		"subject_code" : "HS3252",
+		"subject_name" : "Professional English - II",
+		"year" : 2021
+	},
+	{
+		"id" : 324,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 2,
+		"subject_code" : "MA3251",
+		"subject_name" : "Statistics and Numerical Methods",
+		"year" : 2021
+	},
+	{
+		"id" : 325,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 2,
+		"subject_code" : "PH3254",
+		"subject_name" : "Physics for Electronics Engineering",
+		"year" : 2021
+	},
+	{
+		"id" : 326,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 2,
+		"subject_code" : "BE3254",
+		"subject_name" : "Electrical and Instrumentation Engineering",
+		"year" : 2021
+	},
+	{
+		"id" : 327,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 2,
+		"subject_code" : "GE3251",
+		"subject_name" : "Engineering Graphics",
+		"year" : 2021
+	},
+	{
+		"id" : 328,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 2,
+		"subject_code" : "EC3251",
+		"subject_name" : "Circuit Analysis",
+		"year" : 2021
+	},
+	{
+		"id" : 329,
+		"credit" : 1,
+		"department" : "ECE",
+		"semester" : 2,
+		"subject_code" : "GE3252",
+		"subject_name" : "Tamils and Technology",
+		"year" : 2021
+	},
+	{
+		"id" : 330,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 2,
+		"subject_code" : "GE3271",
+		"subject_name" : "Engineering Practices Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 331,
+		"credit" : 1,
+		"department" : "ECE",
+		"semester" : 2,
+		"subject_code" : "EC3271",
+		"subject_name" : "Circuits Analysis Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 332,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 2,
+		"subject_code" : "GE3272",
+		"subject_name" : "Communication Laboratory / Foreign Language",
+		"year" : 2021
+	},
+	{
+		"id" : 333,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 3,
+		"subject_code" : "MA3355",
+		"subject_name" : "Random Processes and Linear Algebra",
+		"year" : 2021
+	},
+	{
+		"id" : 334,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 3,
+		"subject_code" : "CS3353",
+		"subject_name" : "C Programming and Data Structures",
+		"year" : 2021
+	},
+	{
+		"id" : 335,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 3,
+		"subject_code" : "EC3354",
+		"subject_name" : "Signals and Systems",
+		"year" : 2021
+	},
+	{
+		"id" : 336,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 3,
+		"subject_code" : "EC3353",
+		"subject_name" : "Electronic Devices and Circuits",
+		"year" : 2021
+	},
+	{
+		"id" : 337,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 3,
+		"subject_code" : "EC3351",
+		"subject_name" : "Control Systems",
+		"year" : 2021
+	},
+	{
+		"id" : 338,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 3,
+		"subject_code" : "EC3352",
+		"subject_name" : "Digital Systems Design",
+		"year" : 2021
+	},
+	{
+		"id" : 339,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 3,
+		"subject_code" : "EC3361",
+		"subject_name" : "Electronic Devices and Circuits Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 340,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 3,
+		"subject_code" : "CS3362",
+		"subject_name" : "C Programming and Data Structures Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 341,
+		"credit" : 1,
+		"department" : "ECE",
+		"semester" : 3,
+		"subject_code" : "GE3361",
+		"subject_name" : "Professional Development",
+		"year" : 2021
+	},
+	{
+		"id" : 342,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 4,
+		"subject_code" : "EC3452",
+		"subject_name" : "Electromagnetic Fields",
+		"year" : 2021
+	},
+	{
+		"id" : 343,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 4,
+		"subject_code" : "EC3401",
+		"subject_name" : "Networks and Security",
+		"year" : 2021
+	},
+	{
+		"id" : 344,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 4,
+		"subject_code" : "EC3451",
+		"subject_name" : "Linear Integrated Circuits",
+		"year" : 2021
+	},
+	{
+		"id" : 345,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 4,
+		"subject_code" : "EC3492",
+		"subject_name" : "Digital Signal Processing",
+		"year" : 2021
+	},
+	{
+		"id" : 346,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 4,
+		"subject_code" : "EC3491",
+		"subject_name" : "Communication Systems",
+		"year" : 2021
+	},
+	{
+		"id" : 347,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 4,
+		"subject_code" : "GE3451",
+		"subject_name" : "Environmental Sciences and Sustainability",
+		"year" : 2021
+	},
+	{
+		"id" : 348,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 4,
+		"subject_code" : "NCC",
+		"subject_name" : "Credit Course Level 2",
+		"year" : 2021
+	},
+	{
+		"id" : 349,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 4,
+		"subject_code" : "EC3461",
+		"subject_name" : "Communication Systems Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 350,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 4,
+		"subject_code" : "EC3462",
+		"subject_name" : "Linear Integrated Circuits Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 351,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 5,
+		"subject_code" : "EC3501",
+		"subject_name" : "Wireless Communication",
+		"year" : 2021
+	},
+	{
+		"id" : 352,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 5,
+		"subject_code" : "EC3552",
+		"subject_name" : "VLSI and Chip Design",
+		"year" : 2021
+	},
+	{
+		"id" : 353,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 5,
+		"subject_code" : "EC3551",
+		"subject_name" : "Transmission Lines and RF Systems",
+		"year" : 2021
+	},
+	{
+		"id" : 354,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 5,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective I",
+		"year" : 2021
+	},
+	{
+		"id" : 355,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 5,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective II",
+		"year" : 2021
+	},
+	{
+		"id" : 356,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 5,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective III",
+		"year" : 2021
+	},
+	{
+		"id" : 357,
+		"credit" : 0,
+		"department" : "ECE",
+		"semester" : 5,
+		"subject_code" : "Mandatory",
+		"subject_name" : "Course-I",
+		"year" : 2021
+	},
+	{
+		"id" : 358,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 6,
+		"subject_code" : "ET3491",
+		"subject_name" : "Embedded Systems and IOT Design",
+		"year" : 2021
+	},
+	{
+		"id" : 359,
+		"credit" : 4,
+		"department" : "ECE",
+		"semester" : 6,
+		"subject_code" : "CS3491",
+		"subject_name" : "Artificial Intelligence and Machine Learning",
+		"year" : 2021
+	},
+	{
+		"id" : 360,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 6,
+		"subject_code" : "Open",
+		"subject_name" : "Elective– I",
+		"year" : 2021
+	},
+	{
+		"id" : 361,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 6,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective IV",
+		"year" : 2021
+	},
+	{
+		"id" : 362,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 6,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective V",
+		"year" : 2021
+	},
+	{
+		"id" : 363,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 6,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective VI",
+		"year" : 2021
+	},
+	{
+		"id" : 364,
+		"credit" : 0,
+		"department" : "ECE",
+		"semester" : 6,
+		"subject_code" : "Mandatory",
+		"subject_name" : "Course-II",
+		"year" : 2021
+	},
+	{
+		"id" : 365,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 6,
+		"subject_code" : "NCC",
+		"subject_name" : "Credit Course Level 3",
+		"year" : 2021
+	},
+	{
+		"id" : 366,
+		"credit" : 2,
+		"department" : "ECE",
+		"semester" : 7,
+		"subject_code" : "GE3791",
+		"subject_name" : "Human Values and Ethics",
+		"year" : 2021
+	},
+	{
+		"id" : 367,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 7,
+		"subject_code" : "Elective",
+		"subject_name" : "- Management",
+		"year" : 2021
+	},
+	{
+		"id" : 368,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 7,
+		"subject_code" : "Open",
+		"subject_name" : "Elective – II",
+		"year" : 2021
+	},
+	{
+		"id" : 369,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 7,
+		"subject_code" : "Open",
+		"subject_name" : "Elective – III",
+		"year" : 2021
+	},
+	{
+		"id" : 370,
+		"credit" : 3,
+		"department" : "ECE",
+		"semester" : 7,
+		"subject_code" : "Open",
+		"subject_name" : "Elective – IV",
+		"year" : 2021
+	},
+	{
+		"id" : 371,
+		"credit" : 10,
+		"department" : "ECE",
+		"semester" : 8,
+		"subject_code" : "EC3811",
+		"subject_name" : "Project Work / Internship",
+		"year" : 2021
+	},
+	{
+		"id" : 372,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 1,
+		"subject_code" : "HS3152",
+		"subject_name" : "Professional English - I",
+		"year" : 2021
+	},
+	{
+		"id" : 373,
+		"credit" : 4,
+		"department" : "EEE",
+		"semester" : 1,
+		"subject_code" : "MA3151",
+		"subject_name" : "Matrices and Calculus",
+		"year" : 2021
+	},
+	{
+		"id" : 374,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 1,
+		"subject_code" : "PH3151",
+		"subject_name" : "Engineering Physics",
+		"year" : 2021
+	},
+	{
+		"id" : 375,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 1,
+		"subject_code" : "CY3151",
+		"subject_name" : "Engineering Chemistry",
+		"year" : 2021
+	},
+	{
+		"id" : 376,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 1,
+		"subject_code" : "GE3151",
+		"subject_name" : "Problem Solving and Python Programming",
+		"year" : 2021
+	},
+	{
+		"id" : 377,
+		"credit" : 1,
+		"department" : "EEE",
+		"semester" : 1,
+		"subject_code" : "GE3152",
+		"subject_name" : "தமிழர் மரபு /Heritage of Tamils",
+		"year" : 2021
+	},
+	{
+		"id" : 378,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 1,
+		"subject_code" : "GE3171",
+		"subject_name" : "Problem Solving and Python Programming Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 379,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 1,
+		"subject_code" : "BS3171",
+		"subject_name" : "Physics and Chemistry Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 380,
+		"credit" : 1,
+		"department" : "EEE",
+		"semester" : 1,
+		"subject_code" : "GE3172",
+		"subject_name" : "English Laboratory $",
+		"year" : 2021
+	},
+	{
+		"id" : 381,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 2,
+		"subject_code" : "HS3252",
+		"subject_name" : "Professional English - II",
+		"year" : 2021
+	},
+	{
+		"id" : 382,
+		"credit" : 4,
+		"department" : "EEE",
+		"semester" : 2,
+		"subject_code" : "MA3251",
+		"subject_name" : "Statistics and Numerical Methods",
+		"year" : 2021
+	},
+	{
+		"id" : 383,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 2,
+		"subject_code" : "PH3202",
+		"subject_name" : "Physics for Electrical Engineering",
+		"year" : 2021
+	},
+	{
+		"id" : 384,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 2,
+		"subject_code" : "BE3255",
+		"subject_name" : "Basic Civil and Mechanical Engineering",
+		"year" : 2021
+	},
+	{
+		"id" : 385,
+		"credit" : 4,
+		"department" : "EEE",
+		"semester" : 2,
+		"subject_code" : "GE3251",
+		"subject_name" : "Engineering Graphics",
+		"year" : 2021
+	},
+	{
+		"id" : 386,
+		"credit" : 4,
+		"department" : "EEE",
+		"semester" : 2,
+		"subject_code" : "EE3251",
+		"subject_name" : "Electric Circuit Analysis",
+		"year" : 2021
+	},
+	{
+		"id" : 387,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 2,
+		"subject_code" : "NCC",
+		"subject_name" : "Credit Course Level 1#",
+		"year" : 2021
+	},
+	{
+		"id" : 388,
+		"credit" : 1,
+		"department" : "EEE",
+		"semester" : 2,
+		"subject_code" : "GE3252",
+		"subject_name" : "தமழரும் தொழில்நுட்பமும் /Tamils and Technology",
+		"year" : 2021
+	},
+	{
+		"id" : 389,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 2,
+		"subject_code" : "GE3271",
+		"subject_name" : "Engineering Practices Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 390,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 2,
+		"subject_code" : "EE3271",
+		"subject_name" : "Electric Circuits Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 391,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 2,
+		"subject_code" : "GE3272",
+		"subject_name" : "Communication Laboratory / Foreign Language $",
+		"year" : 2021
+	},
+	{
+		"id" : 392,
+		"credit" : 4,
+		"department" : "EEE",
+		"semester" : 3,
+		"subject_code" : "MA3303",
+		"subject_name" : "Probability and Complex Functions",
+		"year" : 2021
+	},
+	{
+		"id" : 393,
+		"credit" : 4,
+		"department" : "EEE",
+		"semester" : 3,
+		"subject_code" : "EE3301",
+		"subject_name" : "Electromagnetic Fields",
+		"year" : 2021
+	},
+	{
+		"id" : 394,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 3,
+		"subject_code" : "EE3302",
+		"subject_name" : "Digital Logic Circuits",
+		"year" : 2021
+	},
+	{
+		"id" : 395,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 3,
+		"subject_code" : "EC3301",
+		"subject_name" : "Electron Devices and Circuits",
+		"year" : 2021
+	},
+	{
+		"id" : 396,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 3,
+		"subject_code" : "EE3303",
+		"subject_name" : "Electrical Machines - I",
+		"year" : 2021
+	},
+	{
+		"id" : 397,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 3,
+		"subject_code" : "CS3353",
+		"subject_name" : "C Programming and Data Structures",
+		"year" : 2021
+	},
+	{
+		"id" : 398,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 3,
+		"subject_code" : "EC3311",
+		"subject_name" : "Electronic Devices and Circuits Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 399,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 3,
+		"subject_code" : "EE3311",
+		"subject_name" : "Electrical Machines Laboratory – I",
+		"year" : 2021
+	},
+	{
+		"id" : 400,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 3,
+		"subject_code" : "CS3362",
+		"subject_name" : "C Programming and Data Structures Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 401,
+		"credit" : 1,
+		"department" : "EEE",
+		"semester" : 3,
+		"subject_code" : "GE3361",
+		"subject_name" : "Professional Development",
+		"year" : 2021
+	},
+	{
+		"id" : 402,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 4,
+		"subject_code" : "GE3451",
+		"subject_name" : "Environmental Sciences and Sustainability",
+		"year" : 2021
+	},
+	{
+		"id" : 403,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 4,
+		"subject_code" : "EE3401",
+		"subject_name" : "Transmission and Distribution",
+		"year" : 2021
+	},
+	{
+		"id" : 404,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 4,
+		"subject_code" : "EE3402",
+		"subject_name" : "Linear Integrated Circuits",
+		"year" : 2021
+	},
+	{
+		"id" : 405,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 4,
+		"subject_code" : "EE3403",
+		"subject_name" : "Measurements and Instrumentation",
+		"year" : 2021
+	},
+	{
+		"id" : 406,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 4,
+		"subject_code" : "EE3404",
+		"subject_name" : "Microprocessor and Microcontroller",
+		"year" : 2021
+	},
+	{
+		"id" : 407,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 4,
+		"subject_code" : "EE3405",
+		"subject_name" : "Electrical Machines - II",
+		"year" : 2021
+	},
+	{
+		"id" : 408,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 4,
+		"subject_code" : "NCC",
+		"subject_name" : "Credit Course Level 2#",
+		"year" : 2021
+	},
+	{
+		"id" : 409,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 4,
+		"subject_code" : "EE3411",
+		"subject_name" : "Electrical Machines Laboratory - II",
+		"year" : 2021
+	},
+	{
+		"id" : 410,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 4,
+		"subject_code" : "EE3412",
+		"subject_name" : "Linear and Digital Circuits Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 411,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 4,
+		"subject_code" : "EE3413",
+		"subject_name" : "Microprocessor and Microcontroller laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 412,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 5,
+		"subject_code" : "EE3501",
+		"subject_name" : "Power System Analysis",
+		"year" : 2021
+	},
+	{
+		"id" : 413,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 5,
+		"subject_code" : "EE3591",
+		"subject_name" : "Power Electronics",
+		"year" : 2021
+	},
+	{
+		"id" : 414,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 5,
+		"subject_code" : "EE3503",
+		"subject_name" : "Control Systems",
+		"year" : 2021
+	},
+	{
+		"id" : 415,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 5,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective I",
+		"year" : 2021
+	},
+	{
+		"id" : 416,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 5,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective II",
+		"year" : 2021
+	},
+	{
+		"id" : 417,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 5,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective III",
+		"year" : 2021
+	},
+	{
+		"id" : 418,
+		"credit" : 0,
+		"department" : "EEE",
+		"semester" : 5,
+		"subject_code" : "Mandatory",
+		"subject_name" : "Course-I",
+		"year" : 2021
+	},
+	{
+		"id" : 419,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 5,
+		"subject_code" : "EE3511",
+		"subject_name" : "Power Electronics Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 420,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 5,
+		"subject_code" : "EE3512",
+		"subject_name" : "Control and Instrumentation Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 421,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 6,
+		"subject_code" : "EE3601",
+		"subject_name" : "Protection and Switchgear",
+		"year" : 2021
+	},
+	{
+		"id" : 422,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 6,
+		"subject_code" : "EE3602",
+		"subject_name" : "Power System Operation and Control",
+		"year" : 2021
+	},
+	{
+		"id" : 423,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 6,
+		"subject_code" : "Open",
+		"subject_name" : "Elective – I*",
+		"year" : 2021
+	},
+	{
+		"id" : 424,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 6,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective IV",
+		"year" : 2021
+	},
+	{
+		"id" : 425,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 6,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective V",
+		"year" : 2021
+	},
+	{
+		"id" : 426,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 6,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective VI",
+		"year" : 2021
+	},
+	{
+		"id" : 427,
+		"credit" : 0,
+		"department" : "EEE",
+		"semester" : 6,
+		"subject_code" : "Mandatory",
+		"subject_name" : "Course-II&",
+		"year" : 2021
+	},
+	{
+		"id" : 428,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 6,
+		"subject_code" : "NCC",
+		"subject_name" : "Credit Course Level 3",
+		"year" : 2021
+	},
+	{
+		"id" : 429,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 6,
+		"subject_code" : "EE3611",
+		"subject_name" : "Power System Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 430,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 7,
+		"subject_code" : "EE3701",
+		"subject_name" : "High Voltage Engineering",
+		"year" : 2021
+	},
+	{
+		"id" : 431,
+		"credit" : 2,
+		"department" : "EEE",
+		"semester" : 7,
+		"subject_code" : "GE3791",
+		"subject_name" : "Human Values and Ethics",
+		"year" : 2021
+	},
+	{
+		"id" : 432,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 7,
+		"subject_code" : "Elective",
+		"subject_name" : "– Management",
+		"year" : 2021
+	},
+	{
+		"id" : 433,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 7,
+		"subject_code" : "Open",
+		"subject_name" : "Elective – II",
+		"year" : 2021
+	},
+	{
+		"id" : 434,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 7,
+		"subject_code" : "Open",
+		"subject_name" : "Elective – III",
+		"year" : 2021
+	},
+	{
+		"id" : 435,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 7,
+		"subject_code" : "Open",
+		"subject_name" : "Elective – IV",
+		"year" : 2021
+	},
+	{
+		"id" : 436,
+		"credit" : 3,
+		"department" : "EEE",
+		"semester" : 7,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective VII",
+		"year" : 2021
+	},
+	{
+		"id" : 437,
+		"credit" : 10,
+		"department" : "EEE",
+		"semester" : 8,
+		"subject_code" : "EE3811",
+		"subject_name" : "Project Work / Internship",
+		"year" : 2021
+	},
+	{
+		"id" : 438,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 1,
+		"subject_code" : "HS3152",
+		"subject_name" : "Professional English - I",
+		"year" : 2021
+	},
+	{
+		"id" : 439,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 1,
+		"subject_code" : "MA3151",
+		"subject_name" : "Matrices and Calculus",
+		"year" : 2021
+	},
+	{
+		"id" : 440,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 1,
+		"subject_code" : "PH3151",
+		"subject_name" : "Engineering Physics",
+		"year" : 2021
+	},
+	{
+		"id" : 441,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 1,
+		"subject_code" : "CY3151",
+		"subject_name" : "Engineering Chemistry",
+		"year" : 2021
+	},
+	{
+		"id" : 442,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 1,
+		"subject_code" : "GE3151",
+		"subject_name" : "Problem Solving and Python Programming",
+		"year" : 2021
+	},
+	{
+		"id" : 443,
+		"credit" : 1,
+		"department" : "CSE",
+		"semester" : 1,
+		"subject_code" : "GE3152",
+		"subject_name" : "தமிழர் மரபு /Heritage of Tamils",
+		"year" : 2021
+	},
+	{
+		"id" : 444,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 1,
+		"subject_code" : "GE3171",
+		"subject_name" : "Problem Solving and Python Programming Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 445,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 1,
+		"subject_code" : "BS3171",
+		"subject_name" : "Physics and Chemistry Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 446,
+		"credit" : 1,
+		"department" : "CSE",
+		"semester" : 1,
+		"subject_code" : "GE3172",
+		"subject_name" : "English Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 447,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 2,
+		"subject_code" : "HS3252",
+		"subject_name" : "Professional English - II",
+		"year" : 2021
+	},
+	{
+		"id" : 448,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 2,
+		"subject_code" : "MA3251",
+		"subject_name" : "Statistics and Numerical Methods",
+		"year" : 2021
+	},
+	{
+		"id" : 449,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 2,
+		"subject_code" : "PH3256",
+		"subject_name" : "Physics for Information Science",
+		"year" : 2021
+	},
+	{
+		"id" : 450,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 2,
+		"subject_code" : "BE3251",
+		"subject_name" : "Basic Electrical and Electronics Engineering",
+		"year" : 2021
+	},
+	{
+		"id" : 451,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 2,
+		"subject_code" : "GE3251",
+		"subject_name" : "Engineering Graphics",
+		"year" : 2021
+	},
+	{
+		"id" : 452,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 2,
+		"subject_code" : "CS3251",
+		"subject_name" : "Programming in C",
+		"year" : 2021
+	},
+	{
+		"id" : 453,
+		"credit" : 1,
+		"department" : "CSE",
+		"semester" : 2,
+		"subject_code" : "GE3252",
+		"subject_name" : "தமிழரும் ததொழில்நுட்பமும் /Tamils and Technology",
+		"year" : 2021
+	},
+	{
+		"id" : 454,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 2,
+		"subject_code" : "NCC",
+		"subject_name" : "Credit Course Level",
+		"year" : 2021
+	},
+	{
+		"id" : 455,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 2,
+		"subject_code" : "GE3271",
+		"subject_name" : "Engineering Practices Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 456,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 2,
+		"subject_code" : "CS3271",
+		"subject_name" : "Programming in C Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 457,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 2,
+		"subject_code" : "GE3272",
+		"subject_name" : "Communication Laboratory / Foreign Language",
+		"year" : 2021
+	},
+	{
+		"id" : 458,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 3,
+		"subject_code" : "MA3354",
+		"subject_name" : "Discrete Mathematics",
+		"year" : 2021
+	},
+	{
+		"id" : 459,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 3,
+		"subject_code" : "CS3351",
+		"subject_name" : "Digital Principles and Computer Organization",
+		"year" : 2021
+	},
+	{
+		"id" : 460,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 3,
+		"subject_code" : "CS3352",
+		"subject_name" : "Foundations of Data Science",
+		"year" : 2021
+	},
+	{
+		"id" : 461,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 3,
+		"subject_code" : "CS3301",
+		"subject_name" : "Data Structures",
+		"year" : 2021
+	},
+	{
+		"id" : 462,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 3,
+		"subject_code" : "CS3391",
+		"subject_name" : "Object Oriented Programming",
+		"year" : 2021
+	},
+	{
+		"id" : 463,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 3,
+		"subject_code" : "CS3311",
+		"subject_name" : "Data Structures Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 464,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 3,
+		"subject_code" : "CS3381",
+		"subject_name" : "Object Oriented Programming Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 465,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 3,
+		"subject_code" : "CS3361",
+		"subject_name" : "Data Science Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 466,
+		"credit" : 1,
+		"department" : "CSE",
+		"semester" : 3,
+		"subject_code" : "GE3361",
+		"subject_name" : "Professional Development",
+		"year" : 2021
+	},
+	{
+		"id" : 467,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 4,
+		"subject_code" : "CS3452",
+		"subject_name" : "Theory of Computation",
+		"year" : 2021
+	},
+	{
+		"id" : 468,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 4,
+		"subject_code" : "CS3491",
+		"subject_name" : "Artificial Intelligence and Machine Learning",
+		"year" : 2021
+	},
+	{
+		"id" : 469,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 4,
+		"subject_code" : "CS3492",
+		"subject_name" : "Database Management Systems",
+		"year" : 2021
+	},
+	{
+		"id" : 470,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 4,
+		"subject_code" : "CS3401",
+		"subject_name" : "Algorithms",
+		"year" : 2021
+	},
+	{
+		"id" : 471,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 4,
+		"subject_code" : "CS3451",
+		"subject_name" : "Introduction to Operating Systems",
+		"year" : 2021
+	},
+	{
+		"id" : 472,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 4,
+		"subject_code" : "GE3451",
+		"subject_name" : "Environmental Sciences and Sustainability",
+		"year" : 2021
+	},
+	{
+		"id" : 473,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 4,
+		"subject_code" : "NCC",
+		"subject_name" : "Credit Course Level 2#",
+		"year" : 2021
+	},
+	{
+		"id" : 474,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 4,
+		"subject_code" : "CS3461",
+		"subject_name" : "Operating Systems Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 475,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 4,
+		"subject_code" : "CS3481",
+		"subject_name" : "Database Management Systems Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 476,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 5,
+		"subject_code" : "CS3591",
+		"subject_name" : "Computer Networks",
+		"year" : 2021
+	},
+	{
+		"id" : 477,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 5,
+		"subject_code" : "CS3501",
+		"subject_name" : "Compiler Design",
+		"year" : 2021
+	},
+	{
+		"id" : 478,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 5,
+		"subject_code" : "CB3491",
+		"subject_name" : "Cryptography and Cyber Security",
+		"year" : 2021
+	},
+	{
+		"id" : 479,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 5,
+		"subject_code" : "CS3551",
+		"subject_name" : "Distributed Computing",
+		"year" : 2021
+	},
+	{
+		"id" : 480,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 5,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective I",
+		"year" : 2021
+	},
+	{
+		"id" : 481,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 5,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective II",
+		"year" : 2021
+	},
+	{
+		"id" : 482,
+		"credit" : 0,
+		"department" : "CSE",
+		"semester" : 5,
+		"subject_code" : "Mandatory",
+		"subject_name" : "Course-I",
+		"year" : 2021
+	},
+	{
+		"id" : 483,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 6,
+		"subject_code" : "CCS356",
+		"subject_name" : "Object Oriented Software Engineering",
+		"year" : 2021
+	},
+	{
+		"id" : 484,
+		"credit" : 4,
+		"department" : "CSE",
+		"semester" : 6,
+		"subject_code" : "CS3691",
+		"subject_name" : "Embedded Systems and IoT",
+		"year" : 2021
+	},
+	{
+		"id" : 485,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 6,
+		"subject_code" : "Open",
+		"subject_name" : "Elective I",
+		"year" : 2021
+	},
+	{
+		"id" : 486,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 6,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective III",
+		"year" : 2021
+	},
+	{
+		"id" : 487,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 6,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective IV",
+		"year" : 2021
+	},
+	{
+		"id" : 488,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 6,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective V",
+		"year" : 2021
+	},
+	{
+		"id" : 489,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 6,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective VI",
+		"year" : 2021
+	},
+	{
+		"id" : 490,
+		"credit" : 0,
+		"department" : "CSE",
+		"semester" : 6,
+		"subject_code" : "Mandatory",
+		"subject_name" : "Course-II",
+		"year" : 2021
+	},
+	{
+		"id" : 491,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 6,
+		"subject_code" : "NCC",
+		"subject_name" : "Credit Course Level 3#",
+		"year" : 2021
+	},
+	{
+		"id" : 492,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 7,
+		"subject_code" : "GE3791",
+		"subject_name" : "Human Values and Ethics",
+		"year" : 2021
+	},
+	{
+		"id" : 493,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 7,
+		"subject_code" : "Elective",
+		"subject_name" : "- Management",
+		"year" : 2021
+	},
+	{
+		"id" : 494,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 7,
+		"subject_code" : "Open",
+		"subject_name" : "Elective-II",
+		"year" : 2021
+	},
+	{
+		"id" : 495,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 7,
+		"subject_code" : "Open",
+		"subject_name" : "Elective-III",
+		"year" : 2021
+	},
+	{
+		"id" : 496,
+		"credit" : 3,
+		"department" : "CSE",
+		"semester" : 7,
+		"subject_code" : "Open",
+		"subject_name" : "Elective-IV",
+		"year" : 2021
+	},
+	{
+		"id" : 497,
+		"credit" : 2,
+		"department" : "CSE",
+		"semester" : 7,
+		"subject_code" : "CS3711",
+		"subject_name" : "Summer internship",
+		"year" : 2021
+	},
+	{
+		"id" : 498,
+		"credit" : 10,
+		"department" : "CSE",
+		"semester" : 8,
+		"subject_code" : "Project",
+		"subject_name" : "Work",
+		"year" : 2021
+	},
+	{
+		"id" : 505,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 1,
+		"subject_code" : "GE3171",
+		"subject_name" : "Problem Solving and Python Programming Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 506,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 1,
+		"subject_code" : "BS3171",
+		"subject_name" : "Physics and Chemistry Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 507,
+		"credit" : 1,
+		"department" : "Civil",
+		"semester" : 1,
+		"subject_code" : "GE3172",
+		"subject_name" : "English Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 508,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 2,
+		"subject_code" : "HS3252",
+		"subject_name" : "Professional English - II",
+		"year" : 2021
+	},
+	{
+		"id" : 509,
+		"credit" : 4,
+		"department" : "Civil",
+		"semester" : 2,
+		"subject_code" : "MA3251",
+		"subject_name" : "Statistics and Numerical Methods",
+		"year" : 2021
+	},
+	{
+		"id" : 510,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 2,
+		"subject_code" : "PH3201",
+		"subject_name" : "Physics for Civil Engineering",
+		"year" : 2021
+	},
+	{
+		"id" : 511,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 2,
+		"subject_code" : "BE3252",
+		"subject_name" : "Basic Electrical, Electronics and Instrumentation Engineering",
+		"year" : 2021
+	},
+	{
+		"id" : 512,
+		"credit" : 4,
+		"department" : "Civil",
+		"semester" : 2,
+		"subject_code" : "GE3251",
+		"subject_name" : "Engineering Graphics",
+		"year" : 2021
+	},
+	{
+		"id" : 513,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 2,
+		"subject_code" : "NCC",
+		"subject_name" : "Credit Course Level 1",
+		"year" : 2021
+	},
+	{
+		"id" : 514,
+		"credit" : 1,
+		"department" : "Civil",
+		"semester" : 2,
+		"subject_code" : "GE3252",
+		"subject_name" : "Tamils and Technology",
+		"year" : 2021
+	},
+	{
+		"id" : 515,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 2,
+		"subject_code" : "GE3271",
+		"subject_name" : "Engineering Practices Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 516,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 2,
+		"subject_code" : "BE3272",
+		"subject_name" : "Basic Electrical, Electronics and Instrumentation Engineering Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 517,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 2,
+		"subject_code" : "GE3272",
+		"subject_name" : "Communication Laboratory / Foreign Language",
+		"year" : 2021
+	},
+	{
+		"id" : 518,
+		"credit" : 4,
+		"department" : "Civil",
+		"semester" : 3,
+		"subject_code" : "MA3351",
+		"subject_name" : "Transforms and Partial Differential Equations",
+		"year" : 2021
+	},
+	{
+		"id" : 519,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 3,
+		"subject_code" : "ME3351",
+		"subject_name" : "Engineering Mechanics",
+		"year" : 2021
+	},
+	{
+		"id" : 520,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 3,
+		"subject_code" : "CE3301",
+		"subject_name" : "Fluid Mechanics",
+		"year" : 2021
+	},
+	{
+		"id" : 521,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 3,
+		"subject_code" : "CE3302",
+		"subject_name" : "Construction Materials and Technology",
+		"year" : 2021
+	},
+	{
+		"id" : 522,
+		"credit" : 4,
+		"department" : "Civil",
+		"semester" : 3,
+		"subject_code" : "CE3303",
+		"subject_name" : "Water Supply and Wastewater Engineering",
+		"year" : 2021
+	},
+	{
+		"id" : 523,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 3,
+		"subject_code" : "CE3351",
+		"subject_name" : "Surveying and Levelling",
+		"year" : 2021
+	},
+	{
+		"id" : 524,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 3,
+		"subject_code" : "CE3361",
+		"subject_name" : "Surveying and Levelling Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 525,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 3,
+		"subject_code" : "CE3311",
+		"subject_name" : "Water and Wastewater Analysis Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 526,
+		"credit" : 1,
+		"department" : "Civil",
+		"semester" : 3,
+		"subject_code" : "GE3361",
+		"subject_name" : "Professional Development",
+		"year" : 2021
+	},
+	{
+		"id" : 527,
+		"credit" : 4,
+		"department" : "Civil",
+		"semester" : 4,
+		"subject_code" : "CE3401",
+		"subject_name" : "Applied Hydraulics Engineering",
+		"year" : 2021
+	},
+	{
+		"id" : 528,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 4,
+		"subject_code" : "CE3402",
+		"subject_name" : "Strength of Materials",
+		"year" : 2021
+	},
+	{
+		"id" : 529,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 4,
+		"subject_code" : "CE3403",
+		"subject_name" : "Concrete Technology",
+		"year" : 2021
+	},
+	{
+		"id" : 530,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 4,
+		"subject_code" : "CE3404",
+		"subject_name" : "Soil Mechanics",
+		"year" : 2021
+	},
+	{
+		"id" : 531,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 4,
+		"subject_code" : "CE3405",
+		"subject_name" : "Highway and Railway Engineering",
+		"year" : 2021
+	},
+	{
+		"id" : 532,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 4,
+		"subject_code" : "GE3451",
+		"subject_name" : "Environmental Sciences and Sustainability",
+		"year" : 2021
+	},
+	{
+		"id" : 533,
+		"credit" : 3,
+		"department" : "Civil",
+		"semester" : 4,
+		"subject_code" : "NCC",
+		"subject_name" : "Credit Course Level 2",
+		"year" : 2021
+	},
+	{
+		"id" : 534,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 4,
+		"subject_code" : "CE3411",
+		"subject_name" : "Hydraulic Engineering Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 535,
+		"credit" : 2,
+		"department" : "Civil",
+		"semester" : 4,
+		"subject_code" : "CE3412",
+		"subject_name" : "Materials Testing Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 536,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 1,
+		"subject_code" : "HS3152",
+		"subject_name" : "Professional English - I",
+		"year" : 2021
+	},
+	{
+		"id" : 537,
+		"credit" : 4,
+		"department" : "Mech",
+		"semester" : 1,
+		"subject_code" : "MA3151",
+		"subject_name" : "Matrices and Calculus",
+		"year" : 2021
+	},
+	{
+		"id" : 538,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 1,
+		"subject_code" : "PH3151",
+		"subject_name" : "Engineering Physics",
+		"year" : 2021
+	},
+	{
+		"id" : 539,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 1,
+		"subject_code" : "CY3151",
+		"subject_name" : "Engineering Chemistry",
+		"year" : 2021
+	},
+	{
+		"id" : 540,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 1,
+		"subject_code" : "GE3151",
+		"subject_name" : "Problem Solving and Python Programming",
+		"year" : 2021
+	},
+	{
+		"id" : 541,
+		"credit" : 1,
+		"department" : "Mech",
+		"semester" : 1,
+		"subject_code" : "GE3152",
+		"subject_name" : "Heritage of Tamils",
+		"year" : 2021
+	},
+	{
+		"id" : 542,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 1,
+		"subject_code" : "GE3171",
+		"subject_name" : "Problem Solving and Python Programming Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 543,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 1,
+		"subject_code" : "BS3171",
+		"subject_name" : "Physics and Chemistry Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 544,
+		"credit" : 1,
+		"department" : "Mech",
+		"semester" : 1,
+		"subject_code" : "GE3172",
+		"subject_name" : "English Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 545,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 2,
+		"subject_code" : "HS3252",
+		"subject_name" : "Professional English - II",
+		"year" : 2021
+	},
+	{
+		"id" : 546,
+		"credit" : 4,
+		"department" : "Mech",
+		"semester" : 2,
+		"subject_code" : "MA3251",
+		"subject_name" : "Statistics and Numerical Methods",
+		"year" : 2021
+	},
+	{
+		"id" : 547,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 2,
+		"subject_code" : "PH3251",
+		"subject_name" : "Materials Science",
+		"year" : 2021
+	},
+	{
+		"id" : 548,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 2,
+		"subject_code" : "BE3251",
+		"subject_name" : "Basic Electrical and Electronics Engineering",
+		"year" : 2021
+	},
+	{
+		"id" : 549,
+		"credit" : 4,
+		"department" : "Mech",
+		"semester" : 2,
+		"subject_code" : "GE3251",
+		"subject_name" : "Engineering Graphics",
+		"year" : 2021
+	},
+	{
+		"id" : 550,
+		"credit" : 1,
+		"department" : "Mech",
+		"semester" : 2,
+		"subject_code" : "GE3252",
+		"subject_name" : "Tamils and Technology",
+		"year" : 2021
+	},
+	{
+		"id" : 551,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 2,
+		"subject_code" : "NCC",
+		"subject_name" : "Credit Course Level 1",
+		"year" : 2021
+	},
+	{
+		"id" : 552,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 2,
+		"subject_code" : "GE3271",
+		"subject_name" : "Engineering Practices Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 553,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 2,
+		"subject_code" : "BE3271",
+		"subject_name" : "Basic Electrical and Electronics Engineering Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 554,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 2,
+		"subject_code" : "GE3272",
+		"subject_name" : "Communication Laboratory / Foreign Language",
+		"year" : 2021
+	},
+	{
+		"id" : 555,
+		"credit" : 4,
+		"department" : "Mech",
+		"semester" : 3,
+		"subject_code" : "MA3351",
+		"subject_name" : "Transforms and Partial Differential Equations",
+		"year" : 2021
+	},
+	{
+		"id" : 556,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 3,
+		"subject_code" : "ME3351",
+		"subject_name" : "Engineering Mechanics",
+		"year" : 2021
+	},
+	{
+		"id" : 557,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 3,
+		"subject_code" : "ME3391",
+		"subject_name" : "Engineering Thermodynamics",
+		"year" : 2021
+	},
+	{
+		"id" : 558,
+		"credit" : 4,
+		"department" : "Mech",
+		"semester" : 3,
+		"subject_code" : "CE3391",
+		"subject_name" : "Fluid Mechanics and Machinery",
+		"year" : 2021
+	},
+	{
+		"id" : 559,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 3,
+		"subject_code" : "ME3392",
+		"subject_name" : "Engineering Materials and Metallurgy",
+		"year" : 2021
+	},
+	{
+		"id" : 560,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 3,
+		"subject_code" : "ME3393",
+		"subject_name" : "Manufacturing Processes",
+		"year" : 2021
+	},
+	{
+		"id" : 561,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 3,
+		"subject_code" : "ME3381",
+		"subject_name" : "Computer Aided Machine Drawing",
+		"year" : 2021
+	},
+	{
+		"id" : 562,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 3,
+		"subject_code" : "ME3382",
+		"subject_name" : "Manufacturing Technology Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 563,
+		"credit" : 1,
+		"department" : "Mech",
+		"semester" : 3,
+		"subject_code" : "GE3361",
+		"subject_name" : "Professional Development",
+		"year" : 2021
+	},
+	{
+		"id" : 564,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 4,
+		"subject_code" : "ME3491",
+		"subject_name" : "Theory of Machines",
+		"year" : 2021
+	},
+	{
+		"id" : 565,
+		"credit" : 4,
+		"department" : "Mech",
+		"semester" : 4,
+		"subject_code" : "ME3451",
+		"subject_name" : "Thermal Engineering",
+		"year" : 2021
+	},
+	{
+		"id" : 566,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 4,
+		"subject_code" : "ME3492",
+		"subject_name" : "Hydraulics and Pneumatics",
+		"year" : 2021
+	},
+	{
+		"id" : 567,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 4,
+		"subject_code" : "ME3493",
+		"subject_name" : "Manufacturing Technology",
+		"year" : 2021
+	},
+	{
+		"id" : 568,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 4,
+		"subject_code" : "CE3491",
+		"subject_name" : "Strength of Materials",
+		"year" : 2021
+	},
+	{
+		"id" : 569,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 4,
+		"subject_code" : "GE3451",
+		"subject_name" : "Environmental Sciences and Sustainability",
+		"year" : 2021
+	},
+	{
+		"id" : 570,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 4,
+		"subject_code" : "NCC",
+		"subject_name" : "Credit Course Level 2",
+		"year" : 2021
+	},
+	{
+		"id" : 571,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 4,
+		"subject_code" : "CE3481",
+		"subject_name" : "Strength of Materials and Fluid Machinery Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 572,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 4,
+		"subject_code" : "ME3461",
+		"subject_name" : "Thermal Engineering Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 573,
+		"credit" : 4,
+		"department" : "Mech",
+		"semester" : 5,
+		"subject_code" : "ME3591",
+		"subject_name" : "Design of Machine Elements",
+		"year" : 2021
+	},
+	{
+		"id" : 574,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 5,
+		"subject_code" : "ME3592",
+		"subject_name" : "Metrology and Measurements",
+		"year" : 2021
+	},
+	{
+		"id" : 575,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 5,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective I",
+		"year" : 2021
+	},
+	{
+		"id" : 576,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 5,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective II",
+		"year" : 2021
+	},
+	{
+		"id" : 577,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 5,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective III",
+		"year" : 2021
+	},
+	{
+		"id" : 578,
+		"credit" : 0,
+		"department" : "Mech",
+		"semester" : 5,
+		"subject_code" : "Mandatory",
+		"subject_name" : "Course-I",
+		"year" : 2021
+	},
+	{
+		"id" : 579,
+		"credit" : 1,
+		"department" : "Mech",
+		"semester" : 5,
+		"subject_code" : "ME3511",
+		"subject_name" : "Summer Internship*",
+		"year" : 2021
+	},
+	{
+		"id" : 580,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 5,
+		"subject_code" : "ME3581",
+		"subject_name" : "Metrology and Dynamics Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 581,
+		"credit" : 4,
+		"department" : "Mech",
+		"semester" : 6,
+		"subject_code" : "ME3691",
+		"subject_name" : "Heat and Mass Transfer",
+		"year" : 2021
+	},
+	{
+		"id" : 582,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 6,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective IV",
+		"year" : 2021
+	},
+	{
+		"id" : 583,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 6,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective V",
+		"year" : 2021
+	},
+	{
+		"id" : 584,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 6,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective VI",
+		"year" : 2021
+	},
+	{
+		"id" : 585,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 6,
+		"subject_code" : "Professional",
+		"subject_name" : "Elective VII",
+		"year" : 2021
+	},
+	{
+		"id" : 586,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 6,
+		"subject_code" : "Open",
+		"subject_name" : "Elective – I*",
+		"year" : 2021
+	},
+	{
+		"id" : 587,
+		"credit" : 0,
+		"department" : "Mech",
+		"semester" : 6,
+		"subject_code" : "Mandatory",
+		"subject_name" : "Course-II&",
+		"year" : 2021
+	},
+	{
+		"id" : 588,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 6,
+		"subject_code" : "NCC",
+		"subject_name" : "Credit Course Level 3#",
+		"year" : 2021
+	},
+	{
+		"id" : 589,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 6,
+		"subject_code" : "ME3681",
+		"subject_name" : "CAD/CAM Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 590,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 6,
+		"subject_code" : "ME3682",
+		"subject_name" : "Heat Transfer Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 591,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 7,
+		"subject_code" : "ME3791",
+		"subject_name" : "Mechatronics and IoT",
+		"year" : 2021
+	},
+	{
+		"id" : 592,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 7,
+		"subject_code" : "ME3792",
+		"subject_name" : "Computer Integrated Manufacturing",
+		"year" : 2021
+	},
+	{
+		"id" : 593,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 7,
+		"subject_code" : "GE3791",
+		"subject_name" : "Human Values and Ethics",
+		"year" : 2021
+	},
+	{
+		"id" : 594,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 7,
+		"subject_code" : "GE3792",
+		"subject_name" : "Industrial Management",
+		"year" : 2021
+	},
+	{
+		"id" : 595,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 7,
+		"subject_code" : "",
+		"subject_name" : "Open Elective – II**",
+		"year" : 2021
+	},
+	{
+		"id" : 596,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 7,
+		"subject_code" : "",
+		"subject_name" : "Open Elective – III***",
+		"year" : 2021
+	},
+	{
+		"id" : 597,
+		"credit" : 3,
+		"department" : "Mech",
+		"semester" : 7,
+		"subject_code" : "",
+		"subject_name" : "Open Elective – IV***",
+		"year" : 2021
+	},
+	{
+		"id" : 598,
+		"credit" : 2,
+		"department" : "Mech",
+		"semester" : 7,
+		"subject_code" : "ME3781",
+		"subject_name" : "Mechatronics and IoT Laboratory",
+		"year" : 2021
+	},
+	{
+		"id" : 599,
+		"credit" : 1,
+		"department" : "Mech",
+		"semester" : 7,
+		"subject_code" : "ME3711",
+		"subject_name" : "Summer Internship#",
+		"year" : 2021
+	},
+	{
+		"id" : 600,
+		"credit" : 10,
+		"department" : "Mech",
+		"semester" : 8,
+		"subject_code" : "ME3811",
+		"subject_name" : "Project Work / Internship",
+		"year" : 2021
+	}
+]

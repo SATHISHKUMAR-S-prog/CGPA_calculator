@@ -1,0 +1,506 @@
+[
+	{
+		"id" : 1,
+		"credits" : 25,
+		"department" : "ECE",
+		"semester" : 1,
+		"year" : 2017
+	},
+	{
+		"id" : 3,
+		"credits" : 25,
+		"department" : "ECE",
+		"semester" : 2,
+		"year" : 2017
+	},
+	{
+		"id" : 4,
+		"credits" : 25,
+		"department" : "ECE",
+		"semester" : 3,
+		"year" : 2017
+	},
+	{
+		"id" : 5,
+		"credits" : 24,
+		"department" : "ECE",
+		"semester" : 4,
+		"year" : 2017
+	},
+	{
+		"id" : 7,
+		"credits" : 25,
+		"department" : "ECE",
+		"semester" : 5,
+		"year" : 2017
+	},
+	{
+		"id" : 8,
+		"credits" : 24,
+		"department" : "ECE",
+		"semester" : 6,
+		"year" : 2017
+	},
+	{
+		"id" : 9,
+		"credits" : 22,
+		"department" : "ECE",
+		"semester" : 7,
+		"year" : 2017
+	},
+	{
+		"id" : 10,
+		"credits" : 26,
+		"department" : "ECE",
+		"semester" : 8,
+		"year" : 2017
+	},
+	{
+		"id" : 11,
+		"credits" : 25,
+		"department" : "CSE",
+		"semester" : 1,
+		"year" : 2017
+	},
+	{
+		"id" : 12,
+		"credits" : 25,
+		"department" : "CSE",
+		"semester" : 2,
+		"year" : 2017
+	},
+	{
+		"id" : 13,
+		"credits" : 24,
+		"department" : "CSE",
+		"semester" : 3,
+		"year" : 2017
+	},
+	{
+		"id" : 14,
+		"credits" : 25,
+		"department" : "CSE",
+		"semester" : 4,
+		"year" : 2017
+	},
+	{
+		"id" : 15,
+		"credits" : 25,
+		"department" : "CSE",
+		"semester" : 5,
+		"year" : 2017
+	},
+	{
+		"id" : 16,
+		"credits" : 27,
+		"department" : "CSE",
+		"semester" : 6,
+		"year" : 2017
+	},
+	{
+		"id" : 17,
+		"credits" : 23,
+		"department" : "CSE",
+		"semester" : 7,
+		"year" : 2017
+	},
+	{
+		"id" : 18,
+		"credits" : 10,
+		"department" : "CSE",
+		"semester" : 8,
+		"year" : 2017
+	},
+	{
+		"id" : 19,
+		"credits" : 25,
+		"department" : "EEE",
+		"semester" : 1,
+		"year" : 2017
+	},
+	{
+		"id" : 20,
+		"credits" : 25,
+		"department" : "EEE",
+		"semester" : 2,
+		"year" : 2017
+	},
+	{
+		"id" : 21,
+		"credits" : 23,
+		"department" : "EEE",
+		"semester" : 3,
+		"year" : 2017
+	},
+	{
+		"id" : 22,
+		"credits" : 25,
+		"department" : "EEE",
+		"semester" : 4,
+		"year" : 2017
+	},
+	{
+		"id" : 23,
+		"credits" : 23,
+		"department" : "EEE",
+		"semester" : 5,
+		"year" : 2017
+	},
+	{
+		"id" : 24,
+		"credits" : 21,
+		"department" : "EEE",
+		"semester" : 6,
+		"year" : 2017
+	},
+	{
+		"id" : 25,
+		"credits" : 22,
+		"department" : "EEE",
+		"semester" : 7,
+		"year" : 2017
+	},
+	{
+		"id" : 26,
+		"credits" : 16,
+		"department" : "EEE",
+		"semester" : 8,
+		"year" : 2017
+	},
+	{
+		"id" : 27,
+		"credits" : 25,
+		"department" : "Civil",
+		"semester" : 1,
+		"year" : 2017
+	},
+	{
+		"id" : 28,
+		"credits" : 24,
+		"department" : "Civil",
+		"semester" : 2,
+		"year" : 2017
+	},
+	{
+		"id" : 29,
+		"credits" : 25,
+		"department" : "Civil",
+		"semester" : 3,
+		"year" : 2017
+	},
+	{
+		"id" : 30,
+		"credits" : 25,
+		"department" : "Civil",
+		"semester" : 4,
+		"year" : 2017
+	},
+	{
+		"id" : 31,
+		"credits" : 22,
+		"department" : "Civil",
+		"semester" : 5,
+		"year" : 2017
+	},
+	{
+		"id" : 32,
+		"credits" : 25,
+		"department" : "Civil",
+		"semester" : 6,
+		"year" : 2017
+	},
+	{
+		"id" : 33,
+		"credits" : 17,
+		"department" : "Civil",
+		"semester" : 7,
+		"year" : 2017
+	},
+	{
+		"id" : 34,
+		"credits" : 8,
+		"department" : "Civil",
+		"semester" : 8,
+		"year" : 2017
+	},
+	{
+		"id" : 35,
+		"credits" : 25,
+		"department" : "Mech",
+		"semester" : 1,
+		"year" : 2017
+	},
+	{
+		"id" : 36,
+		"credits" : 24,
+		"department" : "Mech",
+		"semester" : 2,
+		"year" : 2017
+	},
+	{
+		"id" : 37,
+		"credits" : 27,
+		"department" : "Mech",
+		"semester" : 3,
+		"year" : 2017
+	},
+	{
+		"id" : 38,
+		"credits" : 25,
+		"department" : "Mech",
+		"semester" : 4,
+		"year" : 2017
+	},
+	{
+		"id" : 39,
+		"credits" : 22,
+		"department" : "Mech",
+		"semester" : 5,
+		"year" : 2017
+	},
+	{
+		"id" : 40,
+		"credits" : 25,
+		"department" : "Mech",
+		"semester" : 6,
+		"year" : 2017
+	},
+	{
+		"id" : 41,
+		"credits" : 23,
+		"department" : "Mech",
+		"semester" : 7,
+		"year" : 2017
+	},
+	{
+		"id" : 42,
+		"credits" : 8,
+		"department" : "Mech",
+		"semester" : 8,
+		"year" : 2017
+	},
+	{
+		"id" : 43,
+		"credits" : 22,
+		"department" : "ECE",
+		"semester" : 1,
+		"year" : 2021
+	},
+	{
+		"id" : 44,
+		"credits" : 26,
+		"department" : "ECE",
+		"semester" : 2,
+		"year" : 2021
+	},
+	{
+		"id" : 45,
+		"credits" : 26,
+		"department" : "ECE",
+		"semester" : 3,
+		"year" : 2021
+	},
+	{
+		"id" : 46,
+		"credits" : 26,
+		"department" : "ECE",
+		"semester" : 4,
+		"year" : 2021
+	},
+	{
+		"id" : 47,
+		"credits" : 19,
+		"department" : "ECE",
+		"semester" : 5,
+		"year" : 2021
+	},
+	{
+		"id" : 48,
+		"credits" : 23,
+		"department" : "ECE",
+		"semester" : 6,
+		"year" : 2021
+	},
+	{
+		"id" : 49,
+		"credits" : 14,
+		"department" : "ECE",
+		"semester" : 7,
+		"year" : 2021
+	},
+	{
+		"id" : 50,
+		"credits" : 10,
+		"department" : "ECE",
+		"semester" : 8,
+		"year" : 2021
+	},
+	{
+		"id" : 51,
+		"credits" : 22,
+		"department" : "EEE",
+		"semester" : 1,
+		"year" : 2021
+	},
+	{
+		"id" : 52,
+		"credits" : 29,
+		"department" : "EEE",
+		"semester" : 2,
+		"year" : 2021
+	},
+	{
+		"id" : 53,
+		"credits" : 27,
+		"department" : "EEE",
+		"semester" : 3,
+		"year" : 2021
+	},
+	{
+		"id" : 54,
+		"credits" : 26,
+		"department" : "EEE",
+		"semester" : 4,
+		"year" : 2021
+	},
+	{
+		"id" : 55,
+		"credits" : 22,
+		"department" : "EEE",
+		"semester" : 5,
+		"year" : 2021
+	},
+	{
+		"id" : 56,
+		"credits" : 23,
+		"department" : "EEE",
+		"semester" : 6,
+		"year" : 2021
+	},
+	{
+		"id" : 57,
+		"credits" : 20,
+		"department" : "EEE",
+		"semester" : 7,
+		"year" : 2021
+	},
+	{
+		"id" : 58,
+		"credits" : 10,
+		"department" : "EEE",
+		"semester" : 8,
+		"year" : 2021
+	},
+	{
+		"id" : 59,
+		"credits" : 22,
+		"department" : "CSE",
+		"semester" : 1,
+		"year" : 2021
+	},
+	{
+		"id" : 60,
+		"credits" : 28,
+		"department" : "CSE",
+		"semester" : 2,
+		"year" : 2021
+	},
+	{
+		"id" : 61,
+		"credits" : 24,
+		"department" : "CSE",
+		"semester" : 3,
+		"year" : 2021
+	},
+	{
+		"id" : 62,
+		"credits" : 26,
+		"department" : "CSE",
+		"semester" : 4,
+		"year" : 2021
+	},
+	{
+		"id" : 63,
+		"credits" : 20,
+		"department" : "CSE",
+		"semester" : 5,
+		"year" : 2021
+	},
+	{
+		"id" : 64,
+		"credits" : 26,
+		"department" : "CSE",
+		"semester" : 6,
+		"year" : 2021
+	},
+	{
+		"id" : 65,
+		"credits" : 16,
+		"department" : "CSE",
+		"semester" : 7,
+		"year" : 2021
+	},
+	{
+		"id" : 66,
+		"credits" : 10,
+		"department" : "CSE",
+		"semester" : 8,
+		"year" : 2021
+	},
+	{
+		"id" : 67,
+		"credits" : 22,
+		"department" : "Mech",
+		"semester" : 1,
+		"year" : 2021
+	},
+	{
+		"id" : 68,
+		"credits" : 25,
+		"department" : "Mech",
+		"semester" : 2,
+		"year" : 2021
+	},
+	{
+		"id" : 69,
+		"credits" : 25,
+		"department" : "Mech",
+		"semester" : 3,
+		"year" : 2021
+	},
+	{
+		"id" : 70,
+		"credits" : 25,
+		"department" : "Mech",
+		"semester" : 4,
+		"year" : 2021
+	},
+	{
+		"id" : 71,
+		"credits" : 19,
+		"department" : "Mech",
+		"semester" : 5,
+		"year" : 2021
+	},
+	{
+		"id" : 72,
+		"credits" : 26,
+		"department" : "Mech",
+		"semester" : 6,
+		"year" : 2021
+	},
+	{
+		"id" : 73,
+		"credits" : 23,
+		"department" : "Mech",
+		"semester" : 7,
+		"year" : 2021
+	},
+	{
+		"id" : 74,
+		"credits" : 10,
+		"department" : "Mech",
+		"semester" : 8,
+		"year" : 2021
+	}
+]

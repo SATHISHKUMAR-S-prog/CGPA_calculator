@@ -1,38 +1,218 @@
-.App {
+/* General Reset */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+  background-color: #f7f9fc;
+  color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+/* Main Container Styling */
+.container {
+  min-width: 320px;
+  max-width: 1000px;
+  width: 100%;
+  margin: 30px auto;
+  padding: 25px;
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading Styles */
+h1 {
+  text-align: center;
+  color: #003366;
+  font-size: 1.8em;
+  margin-bottom: 20px;
+  line-height: 1.4;
+}
+
+.container h1 img {
+  width: 80px;
+  display: block;
+  margin: 0 auto 5px;
+}
+
+/* Section Headings */
+h2 {
+  text-align: center;
+  margin: 25px 0 10px;
+  font-size: 1.2rem;
+  color: #444;
+  font-weight: 600;
+}
+
+p {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Form Label Styling */
+label {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 1rem;
+  color: #222;
+  font-weight: 500;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* Input and Button Styling */
+select,
+button {
+  width: 100%;
+  padding: 10px 15px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+  background-color: #f9f9f9;
+  color: #333;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+/* Focus and Hover Effects */
+select:focus,
+button:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.3);
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Subject Group Styling */
+.subject-container {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.subject-container label {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* Radio Button Styling */
+.radio-container {
   display: flex;
-  flex-direction: column;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-top: 8px;
+}
+
+.radio-container label {
+  display: flex;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: 0.95rem;
+  color: #444;
 }
 
-.App-link {
-  color: #61dafb;
+input[type="radio"] {
+  margin-right: 8px;
+  accent-color: #007bff;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+/* Result Styling */
+.result {
+  margin-top: 25px;
+  text-align: center;
+  font-weight: bold;
+}
+
+#cgpa-note {
+  font-size: 0.85em;
+  color: #666;
+  margin-top: 10px;
+  text-align: center;
+  line-height: 1.4;
+}
+
+/* Separator Line */
+hr {
+  border: 1px solid #eaeaea;
+  margin: 20px 0;
+}
+
+.form-group {
+  padding: 20px;
+  flex-wrap: wrap;
+  background-color: #fff;
+  border-radius: 5px;
+  max-width: 900px;
+  width: 100%;
+}
+
+.form-group .form-control {
+  margin-bottom: 20px;
+  padding: 10px;
+  justify-content: space-evenly;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.form-group label {
+  display: flex;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .container {
+    padding: 20px;
   }
-  to {
-    transform: rotate(360deg);
+
+  h1 {
+    font-size: 1.6em;
+  }
+
+  button {
+    font-size: 0.95rem;
+  }
+
+  .result {
+    font-size: 1em;
+  }
+}
+
+@media (max-width: 420px) {
+  .radio-container {
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  h1 {
+    font-size: 1.4em;
+  }
+
+  button {
+    padding: 8px 12px;
+    font-size: 0.9rem;
   }
 }
